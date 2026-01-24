@@ -1,16 +1,16 @@
+0.0.0.0 account-service-prod03-pub-ak-1731030959.us-east-1.elb.amazonaws.com
 # Description: Fortnite-related domains
-0.0.0.0 datarouter.ol.epicgames.com
-0.0.0.0 fortnite-matchmaking-public-service-live-eu.ol.epicgames.com
+# Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
 # Last modified: 2025-12-19 16:39:31 UTC
 # Entries: 5
 # https://github.com/blocklistproject/Lists
-0.0.0.0 account-service-prod03-pub-ak-1731030959.us-east-1.elb.amazonaws.com
-# Title: Fortnite Block List
-# Format: hosts
-#
-# This list is maintained by The Block List Project
-# Homepage: https://github.com/blocklistproject/Lists
 # URL:
+# This list is maintained by The Block List Project
+0.0.0.0 datarouter.ol.epicgames.com
+# Format: hosts
 0.0.0.0 eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com
+# Title: Fortnite Block List
+#
+0.0.0.0 fortnite-matchmaking-public-service-live-eu.ol.epicgames.com

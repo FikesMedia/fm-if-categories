@@ -1,0 +1,18 @@
+0.0.0.0 chatgpt.com
+# --- Anthropic & Claude ---
+0.0.0.0 jasper.ai
+# --- Google Gemini ---
+0.0.0.0 bard.google.com
+0.0.0.0 copy.ai
+# --- OpenAI & ChatGPT ---
+0.0.0.0 oaistatic.com
+0.0.0.0 claude.ai
+0.0.0.0 anthropic.com
+0.0.0.0 openai.com
+0.0.0.0 oaiusercontent.com
+0.0.0.0 gemini.google.com
+0.0.0.0 grok.com
+# --- Perplexity & Others ---
+0.0.0.0 perplexity.ai
+0.0.0.0 character.ai
+0.0.0.0 x.ai
