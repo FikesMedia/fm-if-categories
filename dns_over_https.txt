@@ -1,0 +1,32 @@
+# DNS OVER HTTPS
+0.0.0.0 dns.quad9.net
+0.0.0.0 doh.opendns.com
+0.0.0.0 dns9.quad9.net
+# OpenDNS (Cisco)
+0.0.0.0 security.cloudflare-dns.com
+# Google
+# NextDNS
+# Mullvad
+0.0.0.0 dns-family.adguard.com
+# CleanBrowsing
+0.0.0.0 doh.cleanbrowsing.org
+# DecloudUs
+0.0.0.0 dns.decloudus.com
+#
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 family.cloudflare-dns.com
+0.0.0.0 dns.google
+# Mojeek
+# Comodo / Dragon
+0.0.0.0 doh.dnsbycomodo.com
+# Cloudflare
+0.0.0.0 dns.adguard.com
+0.0.0.0 dns-unfiltered.adguard.com
+# Control D
+0.0.0.0 dns.mullvad.net
+0.0.0.0 dists.mojeek.com
+# Quad9
+0.0.0.0 doh.familyshield.opendns.com
+# AdGuard
+0.0.0.0 dns.nextdns.io
+0.0.0.0 dns.controld.com

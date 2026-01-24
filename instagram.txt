@@ -1,0 +1,7 @@
+0.0.0.0 threadsapp.net
+#
+# INSTAGRAM
+0.0.0.0 instagram.com
+0.0.0.0 instagr.am
+0.0.0.0 cdninstagram.com
+0.0.0.0 threads.net

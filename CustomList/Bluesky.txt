@@ -1,0 +1,7 @@
+#
+# BLUESKY
+# 
+
+0.0.0.0 bsky.app
+0.0.0.0 api.bsky.app
+0.0.0.0 events.bsky.app

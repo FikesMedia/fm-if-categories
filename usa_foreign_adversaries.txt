@@ -1,0 +1,20 @@
+# ------------------
+0.0.0.0 by
+0.0.0.0 ve
+# Myanmar/Burma
+0.0.0.0 mm
+# FOREIGN ADVERSARIES
+# Belarus
+0.0.0.0 cn
+0.0.0.0 ru
+# Eritrea
+# Venezuela
+0.0.0.0 er
+# Iran
+0.0.0.0 ir
+#
+# China
+# Russia
+0.0.0.0 рф
+# Nicaragua
+0.0.0.0 ni
