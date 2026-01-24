@@ -1,0 +1,15 @@
+#
+# STATE SPONSORS OF TERRORISM
+# Iran
+0.0.0.0 sy
+# Afghanistan
+0.0.0.0 kp
+# Syria
+0.0.0.0 iq
+# ------------------
+# Cuba
+0.0.0.0 af
+0.0.0.0 ir
+# North Korea
+0.0.0.0 cu
+# Iraq

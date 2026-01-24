@@ -1,0 +1,5 @@
+#
+# DISCORD
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com

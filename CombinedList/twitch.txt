@@ -1,0 +1,4 @@
+0.0.0.0 twitchcdn.net
+#
+# TWITCH
+0.0.0.0 twitch.tv
