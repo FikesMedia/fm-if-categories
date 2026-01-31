@@ -1,20 +1,20 @@
-0.0.0.0 by
-# China
-# Russia
-0.0.0.0 ru
-0.0.0.0 ni
-0.0.0.0 mm
-# Belarus
+# ------------------
 0.0.0.0 cn
 0.0.0.0 ve
+# TITLE: USA Foreign Adversaries
+# Belarus
 # Eritrea
-# FOREIGN ADVERSARIES
-# Venezuela
-# Nicaragua
 0.0.0.0 er
-#
-0.0.0.0 рф
 # Myanmar/Burma
-# Iran
+0.0.0.0 mm
 0.0.0.0 ir
-# ------------------
+0.0.0.0 by
+0.0.0.0 рф
+0.0.0.0 ru
+# Venezuela
+0.0.0.0 ni
+# China
+# Russia
+# Iran
+#
+# Nicaragua

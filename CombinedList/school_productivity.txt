@@ -1,0 +1,58 @@
+0.0.0.0 mapnwea.org
+0.0.0.0 renaissance.com
+0.0.0.0 pearson.com
+0.0.0.0 savvas.com
+0.0.0.0 forms.google.com
+0.0.0.0 testnav.com
+0.0.0.0 clever.com
+0.0.0.0 kahoot.com
+0.0.0.0 gstatic.com
+0.0.0.0 collegeboard.org
+0.0.0.0 starfall.com
+0.0.0.0 classlink.com
+0.0.0.0 kahoot.it
+0.0.0.0 googleusercontent.com
+0.0.0.0 google.com
+0.0.0.0 skype.com
+# --- Google Workspace & Drive ---
+0.0.0.0 lexialearning.com
+0.0.0.0 instructure.com
+0.0.0.0 powerschool.com
+0.0.0.0 quizlet.com
+0.0.0.0 1drv.ms
+0.0.0.0 office.com
+0.0.0.0 drive.google.com
+0.0.0.0 docs.google.com
+0.0.0.0 nwea.org
+0.0.0.0 mheducation.com
+0.0.0.0 ixl.com
+# --- Microsoft Office 365 & Productivity ---
+0.0.0.0 outlook.com
+0.0.0.0 msauth.net
+0.0.0.0 canvaslms.com
+0.0.0.0 teams.microsoft.com
+0.0.0.0 apcentral.collegeboard.org
+0.0.0.0 sharepoint.com
+0.0.0.0 act.org
+0.0.0.0 cambiumassessment.com
+0.0.0.0 cambiumtds.com
+0.0.0.0 sheets.google.com
+0.0.0.0 dreambox.com
+0.0.0.0 schoology.com
+# TITLE: School Productivity
+0.0.0.0 classroom.google.com
+0.0.0.0 googleapis.com
+# --- Testing & Assessment (NWEA, SAT, etc) ---
+# --- Textbooks & Curriculum ---
+0.0.0.0 microsoftonline.com
+# --- LMS & School Tools ---
+0.0.0.0 blackboard.com
+#
+0.0.0.0 msftauth.net
+0.0.0.0 savvasrealize.com
+0.0.0.0 power-school.com
+0.0.0.0 office365.com
+0.0.0.0 slides.google.com
+0.0.0.0 pearsonvue.com
+0.0.0.0 hmhco.com
+0.0.0.0 onedrive.com

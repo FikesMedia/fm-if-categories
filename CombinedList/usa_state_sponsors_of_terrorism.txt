@@ -1,15 +1,15 @@
-#
-# North Korea
+0.0.0.0 iq
+# Cuba
 # Syria
-0.0.0.0 kp
-0.0.0.0 cu
 0.0.0.0 sy
-# Iran
+# TITLE: State Sponsores of Terrorism
+# North Korea
+0.0.0.0 af
 # ------------------
 # Iraq
-0.0.0.0 af
 # Afghanistan
-# STATE SPONSORS OF TERRORISM
+0.0.0.0 kp
+0.0.0.0 cu
+#
+# Iran
 0.0.0.0 ir
-# Cuba
-0.0.0.0 iq

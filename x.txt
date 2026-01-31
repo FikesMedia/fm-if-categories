@@ -1,5 +1,5 @@
 #
-# X
+# TITLE: Twitter / X
 0.0.0.0 twitter.com
 0.0.0.0 x.com
 0.0.0.0 t.co

@@ -1,4 +1,4 @@
-0.0.0.0 twitchcdn.net
 #
-# TWITCH
+# TITLE: Twitch
 0.0.0.0 twitch.tv
+0.0.0.0 twitchcdn.net
