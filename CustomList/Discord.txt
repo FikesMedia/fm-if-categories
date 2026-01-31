@@ -1,5 +1,5 @@
 #
-# DISCORD
+# TITLE: Discord
 # 
 
 0.0.0.0 discord.com

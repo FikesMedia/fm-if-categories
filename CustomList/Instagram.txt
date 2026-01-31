@@ -1,5 +1,5 @@
 #
-# INSTAGRAM
+# TITLE: Instagram
 #
 
 0.0.0.0 instagram.com
