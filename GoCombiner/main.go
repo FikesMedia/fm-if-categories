@@ -17,6 +17,8 @@ const (
 	ut1URL = "https://dsi.ut-capitole.fr/blacklists/download/all.tar.gz"
 	blpAPI = "https://api.github.com/repos/blocklistproject/Lists/contents/"
 	fmAPI  = "https://api.github.com/repos/FikesMedia/fm-if-categories/contents/CustomList"
+	// Threshold for splitting files (90 MB)
+	maxSizeBytes = 90 * 1024 * 1024
 )
 
 var categoryMerger = map[string]string{
@@ -25,11 +27,11 @@ var categoryMerger = map[string]string{
 	"doh":       "DNS_Over_HTTPS",
 	"gaming":    "games",
 	"X":         "twitter",
+	"adult":     "porn",
 }
 
 var exclusions = map[string]bool{
-	"agressif.txt":                 true,
-	"arjel.txt":                    true,
+	"agressif.txt": true, "arjel.txt": true,
 	"child.txt":                    true,
 	"list_blanche.txt":             true,
 	"list_bu.txt":                  true,
@@ -42,6 +44,7 @@ var exclusions = map[string]bool{
 	"exceptions_liste_bu.txt":      true,
 	"examen_pix.txt":               true,
 	"everything.txt":               true,
+	"special.txt":                  true,
 }
 
 type GitHubContent struct {
@@ -51,7 +54,7 @@ type GitHubContent struct {
 }
 
 func main() {
-	fmt.Println("🚀 Initializing CIPA Master Pipeline...")
+	fmt.Println("🚀 Initializing CIPA Master Pipeline with File Splitting...")
 
 	dirs := []string{"Temp/ut1", "Temp/blp", "Temp/fm", "master_export"}
 	for _, d := range dirs {
@@ -66,9 +69,8 @@ func main() {
 	totalCount := mergeAndClean()
 
 	fmt.Println("\n--- FINAL REPORT ---")
-	fmt.Printf("✨ Success! Master lists available in './master_export'\n")
 	fmt.Printf("🛡️  Total unique domains protected: %d\n", totalCount)
-	fmt.Println("--------------------")
+	fmt.Println("✨ Check './master_export' for partitioned lists.")
 }
 
 // --- Fetching Logic ---
@@ -135,7 +137,6 @@ func fetchGitHub(apiURL, targetDir string) {
 
 func mergeAndClean() int {
 	fmt.Println("🔄 Merging and Normalizing...")
-
 	masterMap := make(map[string]map[string]bool)
 	sources := []string{"Temp/ut1", "Temp/blp", "Temp/fm"}
 
@@ -174,20 +175,37 @@ func mergeAndClean() int {
 	}
 
 	globalUniqueDomains := 0
+
 	for cat, domains := range masterMap {
-		title := strings.ReplaceAll(cat, "_", " ")
-		title = strings.ReplaceAll(title, "-", " ")
-		title = strings.Title(title)
+		part := 1
+		currentSize := 0
 
-		outPath := filepath.Join("master_export", cat+".txt")
-		outFile, _ := os.Create(outPath)
+		titleBase := strings.Title(strings.ReplaceAll(strings.ReplaceAll(cat, "_", " "), "-", " "))
 
-		outFile.WriteString(fmt.Sprintf("# %s\n", title))
+		// Setup first file
+		f, _ := os.Create(filepath.Join("master_export", fmt.Sprintf("%s%d.txt", cat, part)))
+		f.WriteString(fmt.Sprintf("# %s Part %d\n", titleBase, part))
+
 		for dom := range domains {
-			outFile.WriteString(fmt.Sprintf("0.0.0.0 %s\n", dom))
-			globalUniqueDomains++ // Increment for every line written
+			line := fmt.Sprintf("0.0.0.0 %s\n", dom)
+			lineLen := len(line)
+
+			// Check if this line will push us over the 90MB limit
+			if currentSize+lineLen > maxSizeBytes {
+				f.Close()
+				part++
+				currentSize = 0
+
+				// Create next part
+				f, _ = os.Create(filepath.Join("master_export", fmt.Sprintf("%s%d.txt", cat, part)))
+				f.WriteString(fmt.Sprintf("# %s Part %d\n", titleBase, part))
+			}
+
+			n, _ := f.WriteString(line)
+			currentSize += n
+			globalUniqueDomains++
 		}
-		outFile.Close()
+		f.Close()
 	}
 
 	return globalUniqueDomains

@@ -1,0 +1,5 @@
+# Spotify
+0.0.0.0 spotify.com
+0.0.0.0 scdn.co
+0.0.0.0 spotifycdn.com
+0.0.0.0 byspotify.com
