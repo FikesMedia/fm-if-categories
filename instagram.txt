@@ -1,6 +1,6 @@
 # Instagram
-0.0.0.0 instagram.com
-0.0.0.0 instagr.am
-0.0.0.0 cdninstagram.com
-0.0.0.0 threads.net
-0.0.0.0 threadsapp.net
+instagram.com
+instagr.am
+cdninstagram.com
+threads.net
+threadsapp.net

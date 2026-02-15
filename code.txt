@@ -1,3 +1,0 @@
-# Code
-0.0.0.0 github.com
-0.0.0.0 go.dev

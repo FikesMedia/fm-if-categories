@@ -1,4 +1,4 @@
 # Bluesky
-0.0.0.0 bsky.app
-0.0.0.0 api.bsky.app
-0.0.0.0 events.bsky.app
+events.bsky.app
+bsky.app
+api.bsky.app

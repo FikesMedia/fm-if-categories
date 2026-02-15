@@ -1,636 +1,675 @@
 # Celebrity
-0.0.0.0 humana.org
-0.0.0.0 peopletree.co.uk
-0.0.0.0 topfootball-girls.blogspot.com
-0.0.0.0 celebs101.com
-0.0.0.0 kelcelebrite.com
-0.0.0.0 rihannadaily.com
-0.0.0.0 celebcrust.com
-0.0.0.0 hotcelebritywallpaper.com
-0.0.0.0 jimmyshowbiz.com
-0.0.0.0 monsosie.com
-0.0.0.0 celebrity-link.com
-0.0.0.0 celebritynetworth.com
-0.0.0.0 psprumors.com
-0.0.0.0 glamourvanity.com
-0.0.0.0 gossip--people.skyrock.com
-0.0.0.0 jesuismort.com
-0.0.0.0 jetsetcement.com
-0.0.0.0 latingossip.com
-0.0.0.0 macosrumors.com
-0.0.0.0 peoplefinders.com
-0.0.0.0 filmbug.com
-0.0.0.0 fjgirls.co.uk
-0.0.0.0 gossip.iwon.com
-0.0.0.0 le-show-biz.org
-0.0.0.0 navistars.com
-0.0.0.0 voici.fr
-0.0.0.0 peoplesearch.com.au
-0.0.0.0 trip-avenue.com
-0.0.0.0 worldhotnews.net
-0.0.0.0 galleryofcelebrities.com
-0.0.0.0 hystericpeople.com
-0.0.0.0 starsducinema.com
-0.0.0.0 viciousrumors.com
-0.0.0.0 ambassadorprograms.org
-0.0.0.0 celebritycherry.com
-0.0.0.0 celebrityphobia.com
-0.0.0.0 gossip-girl.hypnoweb.net
-0.0.0.0 gossipcop.com
-0.0.0.0 laineygossip.com
-0.0.0.0 macrumors.com
-0.0.0.0 amiaceleb.com
-0.0.0.0 celebrity.liveleak.com
-0.0.0.0 givemeliberty.org
-0.0.0.0 guessthecelebrity.student.com
-0.0.0.0 people.plurielles.fr
-0.0.0.0 rumorscomedyclub.com
-0.0.0.0 star-wallpaper.com
-0.0.0.0 celebritez.com
-0.0.0.0 celebritypro.com
-0.0.0.0 celebrityseries.org
-0.0.0.0 glamour.com
-0.0.0.0 hollywoodlife.com
-0.0.0.0 gossipthug.com
-0.0.0.0 peoplestars.net
-0.0.0.0 celebritycentreparis.com
-0.0.0.0 craftgossip.com
-0.0.0.0 f1rumors.net
-0.0.0.0 rumorsnightclub.net
-0.0.0.0 stars-people.blogs.fr
-0.0.0.0 truemors.nowpublic.com
-0.0.0.0 celebritycollectables.com
-0.0.0.0 evilbeetgossip.film.com
-0.0.0.0 jetset.com.tw
-0.0.0.0 little-stars.info
-0.0.0.0 ncrumors.com
-0.0.0.0 shootingpeople.org
-0.0.0.0 thedailygoss.com
-0.0.0.0 celebrities.alltop.com
-0.0.0.0 gala.fr
-0.0.0.0 gossipcenter.com
-0.0.0.0 kevadams.fr
-0.0.0.0 people.com.mm
-0.0.0.0 sosie.be
-0.0.0.0 ussearch.com
-0.0.0.0 123people.com
-0.0.0.0 celebrityalmanac.com
-0.0.0.0 dailyblabber.ivillage.com
-0.0.0.0 la-jet-set-pv.skyrock.com
-0.0.0.0 peopollywood.com
-0.0.0.0 celebrityphotoonline.com
-0.0.0.0 etonline.com
-0.0.0.0 hotcelebrity.name
-0.0.0.0 jetsetinc.com
-0.0.0.0 jetsets.org
-0.0.0.0 localcelebrity.com
-0.0.0.0 annuaire-stars-celebrites.com
-0.0.0.0 damnimcute.com
-0.0.0.0 hollywoodbackwash.com
-0.0.0.0 keskeces.com
-0.0.0.0 thesuperficial.com
-0.0.0.0 womanfineststars.com
-0.0.0.0 wonkette.com
-0.0.0.0 myheritage.com
-0.0.0.0 rumorsquartet.com
-0.0.0.0 actressesgalls.com
-0.0.0.0 hollywoodpornstars.be
-0.0.0.0 starpages.net
-0.0.0.0 zac-efron.bloxode.com
-0.0.0.0 spock.com
-0.0.0.0 starlifetalk.com
-0.0.0.0 4mninside.com
-0.0.0.0 celebrything.com
-0.0.0.0 cocoperez.com
-0.0.0.0 gossipgirlworld.org
-0.0.0.0 nospepoles.com
-0.0.0.0 rumorsms.citymax.com
-0.0.0.0 tvsquad.com
-0.0.0.0 jetsetclub.com
-0.0.0.0 rumorsaltoona.com
-0.0.0.0 vrai-nom.com
-0.0.0.0 celebrities.com
-0.0.0.0 celebrityblackberrysightings.com
-0.0.0.0 celebritymound.com
-0.0.0.0 crazyrumors.com
-0.0.0.0 jet-set-007.skyrock.com
-0.0.0.0 rumorficial.com
-0.0.0.0 toutlebuzz.com
-0.0.0.0 celebritywonder.com
-0.0.0.0 jetsetcrew.com
-0.0.0.0 jetsetreport.com
-0.0.0.0 peopleenespanol.com
-0.0.0.0 spreadit.org
-0.0.0.0 buzz-tele.fr
-0.0.0.0 celebrites-selection.com
-0.0.0.0 closermag.fr
-0.0.0.0 popscribe.com
-0.0.0.0 celebrity-bigbrother.com
-0.0.0.0 jetsetpq.com
-0.0.0.0 people.zoho.com
-0.0.0.0 thebosh.com
-0.0.0.0 webmalin2000.free.fr
-0.0.0.0 defamer.com
-0.0.0.0 designjetset.com
-0.0.0.0 jetset-agency.com
-0.0.0.0 popsugar.com
-0.0.0.0 acteurchanteur.com
-0.0.0.0 dailystarnews.com
-0.0.0.0 gossipgirlonline.skyrock.com
-0.0.0.0 news-people.fr
-0.0.0.0 stars-celebrites.com
-0.0.0.0 bestcelebritysites.com
-0.0.0.0 celebs.webcastr.com
-0.0.0.0 people.com
-0.0.0.0 blogdejulia.com
-0.0.0.0 celebrite.com
-0.0.0.0 celebrityparents.com
-0.0.0.0 chinaadopttalk.com
-0.0.0.0 experimentaljetset.nl
-0.0.0.0 killrockstars.com
-0.0.0.0 mwza.com
-0.0.0.0 people.co.uk
-0.0.0.0 alltheprettypeople.com
-0.0.0.0 investorsinpeople.co.uk
-0.0.0.0 jetsetbabies.com
-0.0.0.0 kevadams-officiel.fr
-0.0.0.0 people.yahoo.com
-0.0.0.0 poplifeart.com
-0.0.0.0 radaronline.com
-0.0.0.0 thedailyhappy.blogspot.com
-0.0.0.0 celebritystarportraits.com
-0.0.0.0 contactvip.com
-0.0.0.0 glam.fr
-0.0.0.0 jsw.ovine.net
-0.0.0.0 macrumorslive.com
-0.0.0.0 thederrtytruth.com
-0.0.0.0 wesmirch.com
-0.0.0.0 buzzandpeople.com
-0.0.0.0 buzzvee.com
-0.0.0.0 celebrity-gossip.net
-0.0.0.0 celebrityjet.com
-0.0.0.0 globalexchange.org
-0.0.0.0 jadorelespotins.com
-0.0.0.0 thepeoplehistory.com
-0.0.0.0 tv-charme.com
-0.0.0.0 desvestir.com.mx
-0.0.0.0 starsetpeople.com
-0.0.0.0 annuaire-stars-nues.com
-0.0.0.0 fotofama.com
-0.0.0.0 greys-anatomy.info
-0.0.0.0 mlsrumorsrumors.blogspot.com
-0.0.0.0 pipole.net
-0.0.0.0 celebrity-g0ssip.skyrock.com
-0.0.0.0 celebritybabies.typepad.com
-0.0.0.0 celebritythegame.com
-0.0.0.0 fermecelebrites2.com
-0.0.0.0 jetset.ca
-0.0.0.0 rumors.it
-0.0.0.0 yoursuperstar.com
-0.0.0.0 celebritycd.com
-0.0.0.0 celebritynation.blogspot.com
-0.0.0.0 celebritysmackblog.com
-0.0.0.0 jetsetmodern.com
-0.0.0.0 celebrites-stars.118-annuaires.eu
-0.0.0.0 famosos.mundodescargas.com
-0.0.0.0 gossip.about.com
-0.0.0.0 peopleinside.fr
-0.0.0.0 jetsetmafia.com
-0.0.0.0 leguidedesstars.cquoi.net
-0.0.0.0 michaelstars.com
-0.0.0.0 myparkmag.co.uk
-0.0.0.0 rumors.com
-0.0.0.0 thebadandugly.com
-0.0.0.0 tmz.com
-0.0.0.0 vasjmorgan.com
-0.0.0.0 actupeople.blogspot.com
-0.0.0.0 crazyapplerumors.com
-0.0.0.0 freshdames.com
-0.0.0.0 glacombe.com
-0.0.0.0 maplejuice.com
-0.0.0.0 rumors.jp
-0.0.0.0 creationsiteinternetrambouillet.com
-0.0.0.0 iamrubis.skyrock.com
-0.0.0.0 lulucomets.net
-0.0.0.0 simsstars.com
-0.0.0.0 spicezee.com
-0.0.0.0 starsareunderground.free.fr
-0.0.0.0 bateauecole.fr
-0.0.0.0 celebrities-weblog.com
-0.0.0.0 eonline.com
-0.0.0.0 mundofamosos.portalmundos.com
-0.0.0.0 people.howstuffworks.com
-0.0.0.0 starsgossip.blogspot.com
-0.0.0.0 sylvaincombe.net
-0.0.0.0 aliyaparcs.com
-0.0.0.0 gossipjournal.canalblog.com
-0.0.0.0 miss-jonas008.skyrock.com
-0.0.0.0 usmagazine.com
-0.0.0.0 dontmiss.fr
-0.0.0.0 hollywoodgrind.com
-0.0.0.0 hoopsworld.com
-0.0.0.0 pmx.over-blog.com
-0.0.0.0 potindestars.com
-0.0.0.0 rootspeople.com
-0.0.0.0 staronet.com
-0.0.0.0 stupidcelebrities.net
-0.0.0.0 celeblite.com
-0.0.0.0 dinootoo.com
-0.0.0.0 gossip-tv.gr
-0.0.0.0 popeater.com
-0.0.0.0 rumors-party.com
-0.0.0.0 spkweb.org.uk
-0.0.0.0 vipmodels.fr
-0.0.0.0 yourcelebrity.net
-0.0.0.0 celebrity-mania.com
-0.0.0.0 famouspeople.com
-0.0.0.0 gossipgirls.com
-0.0.0.0 peopleconnection.aol.com
-0.0.0.0 starbucksgossip.typepad.com
-0.0.0.0 thehollywoodgossip.com
-0.0.0.0 blackpeopleloveus.com
-0.0.0.0 premiere.fr
-0.0.0.0 thebuzz.sheknows.com
-0.0.0.0 greys-anatomy.fr
-0.0.0.0 sacconnection.com
-0.0.0.0 dailymoo.com
-0.0.0.0 jet-set-international.com
-0.0.0.0 juicyceleb.com
-0.0.0.0 celebcards.com
-0.0.0.0 celebritieszone.com
-0.0.0.0 glamourmagazine.co.uk
-0.0.0.0 yeeeah.com
-0.0.0.0 ivmypeople.com
-0.0.0.0 waterforpeople.org
-0.0.0.0 celebritydietdoctor.com
-0.0.0.0 sortez-moi-de-la.tchatcheblog.com
-0.0.0.0 tabonitobrasil.com
-0.0.0.0 canonrumors.com
-0.0.0.0 purepeople.com
-0.0.0.0 stripes.com
-0.0.0.0 bollywoodhappening.com
-0.0.0.0 celebhoo.com
-0.0.0.0 celebritywallpapers.com
-0.0.0.0 lindsaylohan123.monblogue.branchez-vous.com
-0.0.0.0 voistars.com
-0.0.0.0 gossipgirlreport.com
-0.0.0.0 jetsetgraffiti.com
-0.0.0.0 5duku.tistory.com
-0.0.0.0 girlsdunet.com
-0.0.0.0 jekers.com
-0.0.0.0 jetsetbar.com
-0.0.0.0 listal.com
-0.0.0.0 nicolebitchy.com
-0.0.0.0 nowmagazine.co.uk
-0.0.0.0 actualitepeople.tootisy.com
-0.0.0.0 celebdirtylaundry.com
-0.0.0.0 dailycontempt.com
-0.0.0.0 gossipcentral.com
-0.0.0.0 laola.blogtrafic.com
-0.0.0.0 staragora.com
-0.0.0.0 wwerumors.org
-0.0.0.0 celebrity-babies.com
-0.0.0.0 celebrityemail.com
-0.0.0.0 entrevue.fr
-0.0.0.0 jetsetpaper.etsy.com
-0.0.0.0 thegossipmusic.com
-0.0.0.0 celebrite.aol.fr
-0.0.0.0 celebritieslifestyle.wordpress.com
-0.0.0.0 celebrity-maps.com
-0.0.0.0 jetsettour.com
-0.0.0.0 gossipgirlinsider.com
-0.0.0.0 jetsetusa.com
-0.0.0.0 peoplesite.com
-0.0.0.0 scotlandspeople.gov.uk
-0.0.0.0 canalstars.com
-0.0.0.0 hollywoodrag.com
-0.0.0.0 nameastarlive.com
-0.0.0.0 people.ados.fr
-0.0.0.0 scientology-ccparis.org
-0.0.0.0 celebridiot.com
-0.0.0.0 celebritysweating.com
-0.0.0.0 celebritytheatre.com
-0.0.0.0 famososycorazon.com
-0.0.0.0 freegossip.gr
-0.0.0.0 stars-jetset.org
-0.0.0.0 stars.ca
-0.0.0.0 stars.troy.edu
-0.0.0.0 celebritylatestgossip.com
-0.0.0.0 go4celebrity.com
-0.0.0.0 mysteriouspeople.com
-0.0.0.0 people-international.com
-0.0.0.0 sportsyenta.blogspot.com
-0.0.0.0 starmagazine.com
-0.0.0.0 ultimate-jetset.xooit.com
-0.0.0.0 annu-celebrites.cquoi.net
-0.0.0.0 celebrities.ninemsn.com.au
-0.0.0.0 celebrityshoppingblog.com
-0.0.0.0 thecelebritycafe.com
-0.0.0.0 74.54.112.162
-0.0.0.0 chez-zazou.blogtrafic.com
-0.0.0.0 gossipgirl-blog.cwtv.com
-0.0.0.0 jacqueslorenziconseil.com
-0.0.0.0 personaglia.com
-0.0.0.0 public.fr
-0.0.0.0 truthorfiction.com
-0.0.0.0 celebrityspace.fr
-0.0.0.0 news-de-stars.com
-0.0.0.0 starsagency.com
-0.0.0.0 celebrity.myspace.com
-0.0.0.0 fotosdasfamosas.com
-0.0.0.0 germainpire.info
-0.0.0.0 ptpi.org
-0.0.0.0 scandalspy.com
-0.0.0.0 sharonlingham.com
-0.0.0.0 blogue.biotope.ca
-0.0.0.0 branwen.net
-0.0.0.0 concreteloop.com
-0.0.0.0 rumorreporter.com
-0.0.0.0 gossiprocks.com
-0.0.0.0 littlejetset.com
-0.0.0.0 sexypipoles.com
-0.0.0.0 celebritydairy.com
-0.0.0.0 easystar.com
-0.0.0.0 jetsetwilly.jodi.org
-0.0.0.0 sportsambassadors.org
-0.0.0.0 starsofkarting.com
-0.0.0.0 celebheli.com
-0.0.0.0 classicphotos.com
-0.0.0.0 instyle.com
-0.0.0.0 jetsetweblog.com
-0.0.0.0 rumors-online.com
-0.0.0.0 actustar.com
-0.0.0.0 celebsinside.com
-0.0.0.0 drh-movement.org
-0.0.0.0 jimmyshowbiz.blogspot.com
-0.0.0.0 popcrunch.com
-0.0.0.0 stars-celebrites.chez-alice.fr
-0.0.0.0 celebrity.sawen.com
-0.0.0.0 celebstation.org
-0.0.0.0 emigrestudio.com
-0.0.0.0 thegossipbee.com
-0.0.0.0 thesweetgossip.com
-0.0.0.0 zabasearch.com
-0.0.0.0 ecorazzi.com
-0.0.0.0 popularbiographies.wordpress.com
-0.0.0.0 rumorpatrol.com
-0.0.0.0 celebritylinks.de
-0.0.0.0 holymoly.co.uk
-0.0.0.0 perfectpeople.net
-0.0.0.0 planetestars.tchatcheblog.com
-0.0.0.0 appleinsider.com
-0.0.0.0 celebritygossipshow.com
-0.0.0.0 celebritypuke.com
-0.0.0.0 stars-oubliees.com
-0.0.0.0 blogswow.com
-0.0.0.0 deathbeeper.com
-0.0.0.0 lawebdelasfamosas.com
-0.0.0.0 starsinyou.com
-0.0.0.0 uberazzi.com
-0.0.0.0 celebrity-people.com
-0.0.0.0 missingpeople.org.uk
-0.0.0.0 star-celebrite.com
-0.0.0.0 studentstakingarightstand.org
-0.0.0.0 vipflux.com
-0.0.0.0 wink.com
-0.0.0.0 caribbeancelebrity.com
-0.0.0.0 globalgossip.com
-0.0.0.0 jetsetmagazine.net
-0.0.0.0 jetsetmodels.com
-0.0.0.0 objetivofamosos.com
-0.0.0.0 peoplespot.com
-0.0.0.0 hockeytraderumors.com
-0.0.0.0 jetsetsports.com
-0.0.0.0 lincolnstars.com
-0.0.0.0 macosrumorsrumors.8m.com
-0.0.0.0 numbergossip.com
-0.0.0.0 recentgossip.com
-0.0.0.0 starpulse.com
-0.0.0.0 stars-celebrites.fr
-0.0.0.0 celebritygossip.com
-0.0.0.0 celebritymorgue.com
-0.0.0.0 freepeople.com
-0.0.0.0 jetsetjoe.com
-0.0.0.0 metropolitanmodels.com
-0.0.0.0 stars-py.sourceforge.net
-0.0.0.0 starsblog.dallasnews.com
-0.0.0.0 baronne.iziblog.net
-0.0.0.0 celebgossip.excite.com
-0.0.0.0 celebrityfling.com
-0.0.0.0 gossip.imendio.org
-0.0.0.0 hottdhaka.com
-0.0.0.0 imnotobsessed.com
-0.0.0.0 biosstars.com
-0.0.0.0 celebritiesworldwide.com
-0.0.0.0 tlife.gr
-0.0.0.0 biggeststars.com
-0.0.0.0 defamer.com.au
-0.0.0.0 english.gov.cn
-0.0.0.0 hpana.com
-0.0.0.0 mlbtraderumors.com
-0.0.0.0 people.emotionelle.fr
-0.0.0.0 entertainment.myway.com
-0.0.0.0 modamob.com
-0.0.0.0 csotd.com
-0.0.0.0 econjobrumors.proboards105.com
-0.0.0.0 g0ssipgirl.canalblog.com
-0.0.0.0 celebritysnap.com
-0.0.0.0 dailymedia.us
-0.0.0.0 dyfuse.com
-0.0.0.0 popvine.com
-0.0.0.0 rumormethis.com
-0.0.0.0 stars-celebrites-news.com
-0.0.0.0 thegossipfix.com
-0.0.0.0 woofactor.com
-0.0.0.0 1001actus.com
-0.0.0.0 celebrites.fr
-0.0.0.0 fanpeople.com
-0.0.0.0 photos-celebrites.net
-0.0.0.0 yuddy.com
-0.0.0.0 healthypeople.gov
-0.0.0.0 star-1.org
-0.0.0.0 starissime.info
-0.0.0.0 stars-fun.com
-0.0.0.0 actupoli.blogspot.com
-0.0.0.0 celebpox.com
-0.0.0.0 celebrityattractions.com
-0.0.0.0 gawker.com
-0.0.0.0 hollywoodsnowflakes.com
-0.0.0.0 ladygossip.yooblog.gr
-0.0.0.0 stars.nhl.com
-0.0.0.0 jetset.ch
-0.0.0.0 peoples.com
-0.0.0.0 antoine-stars.skyrock.com
-0.0.0.0 celebreject.com
-0.0.0.0 gossipgirlchat.com
-0.0.0.0 jetsetjapan.com
-0.0.0.0 jmlg.org
-0.0.0.0 buzzinsoapstars.co.uk
-0.0.0.0 celebrity.rightpundits.com
-0.0.0.0 oceanup.com
-0.0.0.0 robotgossip.blogspot.com
-0.0.0.0 celebrityscreenname.com
-0.0.0.0 celticlesb.blogspirit.com
-0.0.0.0 femalefirst.co.uk
-0.0.0.0 gossip.com
-0.0.0.0 jetset.com.au
-0.0.0.0 mundofamosos.net
-0.0.0.0 nosamislespeople.com
-0.0.0.0 snarkygossip.com
-0.0.0.0 scientology.cc
-0.0.0.0 celebritiesfans.com
-0.0.0.0 contactanycelebrity.com
-0.0.0.0 diaryofahollywoodstreetking.com
-0.0.0.0 fametastic.co.uk
-0.0.0.0 celebritypwn.com
-0.0.0.0 celebtv.com
-0.0.0.0 delire2star.com
-0.0.0.0 hollywoodchaos.com
-0.0.0.0 hotmommagossip.com
-0.0.0.0 jeanmarcmorandini.com
-0.0.0.0 looktothestars.org
-0.0.0.0 nosamieslesstars.com
-0.0.0.0 buzzpatrol.com
-0.0.0.0 celebatheists.com
-0.0.0.0 glamourparis.com
-0.0.0.0 gossipgirl.net
-0.0.0.0 ofuxico.com.br
-0.0.0.0 thecelebrityblog.com
-0.0.0.0 thejetsetgirls.blogspot.com
-0.0.0.0 123celebritygossip.com
-0.0.0.0 caught.com
-0.0.0.0 celebrityjuicy.com
-0.0.0.0 twojetsetdivas.com
-0.0.0.0 celebrites-stars.eu
-0.0.0.0 celebrush.com
-0.0.0.0 jetsetblog.com
-0.0.0.0 howtohireacelebrity.com
-0.0.0.0 infamousceleb.com
-0.0.0.0 janetcharltonshollywood.com
-0.0.0.0 shopatstars.com
-0.0.0.0 starfizz.net
-0.0.0.0 stars-and-gossip.blogspot.com
-0.0.0.0 stars-people.skyrock.com
-0.0.0.0 wwtdd.com
-0.0.0.0 actu-celebrite.blogspot.com
-0.0.0.0 actu-star.be
-0.0.0.0 calicelebs.com
-0.0.0.0 cambio.com
-0.0.0.0 celebrityzone.co.uk
-0.0.0.0 gossipandfashion.com
-0.0.0.0 gossiprecords.com
-0.0.0.0 sosie-star.com
-0.0.0.0 buzzmaniac.fr
-0.0.0.0 celebrityrumors.com
-0.0.0.0 mrpaparazzi.com
-0.0.0.0 mundodafama.net
-0.0.0.0 ninapeople.com
-0.0.0.0 peoples.coop
-0.0.0.0 reunion.com
-0.0.0.0 seeing-stars.com
-0.0.0.0 celebrityrockstarguitars.com
-0.0.0.0 gatheringstars.com
-0.0.0.0 gossipyouth.co.uk
-0.0.0.0 jet-set.216942.free-press-release.com
-0.0.0.0 jswremakes.emuunlim.com
-0.0.0.0 slashgossip.com
-0.0.0.0 stuffwhitepeoplelike.com
-0.0.0.0 astrozine.astrology.com
-0.0.0.0 dangerously-famous.skyrock.com
-0.0.0.0 parismatch.com
-0.0.0.0 perezhilton.com
-0.0.0.0 westferia.com
-0.0.0.0 engineroomvfx.com
-0.0.0.0 people.blog.mongenie.com
-0.0.0.0 realestalker.blogspot.com
-0.0.0.0 timbeasleyscelebritystars.com
-0.0.0.0 allstargossip.com
-0.0.0.0 celebrities.netscape.com
-0.0.0.0 todaystars.com
-0.0.0.0 womencelebs.com
-0.0.0.0 bossip.com
-0.0.0.0 celebuzz.com
-0.0.0.0 jewelryfromthestars.com
-0.0.0.0 okmagazine.com
-0.0.0.0 starsansmaquillage.fr
-0.0.0.0 studentambassadors.org
-0.0.0.0 timessquaregossip.com
-0.0.0.0 celebswhotwitter.com
-0.0.0.0 english.peopledaily.com.cn
-0.0.0.0 gamegossip.com
-0.0.0.0 gossipcraze.com
-0.0.0.0 ok.co.uk
-0.0.0.0 blog.telestar.fr
-0.0.0.0 celebrites-photos.com
-0.0.0.0 jetset-bar.com
-0.0.0.0 lyonpeople.com
-0.0.0.0 theinsider.com
-0.0.0.0 celebheights.com
-0.0.0.0 peopleandprofiles.com
-0.0.0.0 rumorsrva.com
-0.0.0.0 celebstar.org
-0.0.0.0 handbag.com
-0.0.0.0 josetaco.com
-0.0.0.0 malecelebs4u.com
-0.0.0.0 actuspeople.com
-0.0.0.0 celebrity.aol.com
-0.0.0.0 jakeldaily.com
-0.0.0.0 morisod.com
-0.0.0.0 wonderfull-stars.skyrock.com
-0.0.0.0 actualite-de-stars.com
-0.0.0.0 belladonnarealm.com
-0.0.0.0 buzzpeople.info
-0.0.0.0 celebritybabyscoop.com
-0.0.0.0 peopleorg.com
-0.0.0.0 radicule.com
-0.0.0.0 celebrity-mag.skyrock.com
-0.0.0.0 dpsinfo.com
-0.0.0.0 h-n-v-gossip.skyrock.com
-0.0.0.0 kinggossip.com
-0.0.0.0 nationalenquirer.com
-0.0.0.0 nice-people-x.com
-0.0.0.0 actupeople.fr
-0.0.0.0 bollynewz.com
-0.0.0.0 celebritycellars.com
-0.0.0.0 hollyscoop.com
-0.0.0.0 misdivas.com
-0.0.0.0 fun-people.fr
-0.0.0.0 jetsetpets.com
-0.0.0.0 lespipoles.com
-0.0.0.0 megalopeople.com
-0.0.0.0 queen.gr
-0.0.0.0 heatworld.com
-0.0.0.0 piaction.com
-0.0.0.0 celebrity-exchange.com
-0.0.0.0 celebrity-hairstyles.org
-0.0.0.0 drinkjetset.com
-0.0.0.0 gossipgirlonline.net
-0.0.0.0 jetsetstudios.com
-0.0.0.0 rumorsrestaurant.com
-0.0.0.0 celebrite-star.com
-0.0.0.0 hollywoodgossips.net
-0.0.0.0 insidejets.com
-0.0.0.0 jetsetsatellite.com
-0.0.0.0 pregnant-celebrities.com
-0.0.0.0 stars.org.uk
-0.0.0.0 zoomstars.com
-0.0.0.0 1celebritysearch.com
-0.0.0.0 allcelebrity.it
-0.0.0.0 celebritybabywatch.com
-0.0.0.0 cotilleoblog.com
-0.0.0.0 dirtywood.com
-0.0.0.0 pixelstar.fr
-0.0.0.0 celebritypalace.com
-0.0.0.0 celebs.japansuki.com
-0.0.0.0 divertissonsnous.com
-0.0.0.0 exposay.com
-0.0.0.0 famous-people-search.com
-0.0.0.0 jetsettuning.com
-0.0.0.0 pipl.com
-0.0.0.0 celebritybodygossip.com
-0.0.0.0 friendsofcannabis.com
-0.0.0.0 jetsetholidays.co.uk
-0.0.0.0 nikonrumors.com
-0.0.0.0 people-stars23.skyrock.com
-0.0.0.0 sawfirst.com
-0.0.0.0 stargossip.info
+celebrities.ninemsn.com.au
+littlejetset.com
+2krota.ru/celebrities/
+celebritypro.com
+jetsetmodern.com
+mlsrumorsrumors.blogspot.com
+peoplefinders.com
+stars.nhl.com
+starsofkarting.com
+gossip.iwon.com
+jesuismort.com
+jetsetreport.com
+ultimate-jetset.xooit.com
+calle17.net/categoria/prensa-rosa
+mentesmodernas.com.br/category/celebridades/
+blogue.biotope.ca
+celebrityalmanac.com
+celebrityphobia.com
+peopleconnection.aol.com
+guyism.com/section/celebs/
+allcelebrity.it
+econjobrumors.proboards105.com
+sportsyenta.blogspot.com
+tabonitobrasil.com
+wwerumors.org
+theluxuryspot.com/category/celebs/
+celebritypwn.com
+glamourmagazine.co.uk
+stars-jetset.org
+zac-efron.bloxode.com
+celebritieszone.com
+entrevue.fr
+oceanup.com
+wink.com
+wwtdd.com
+orange.co.uk/entertainment/celebrity/
+starpulse.com
+thebuzz.sheknows.com
+celebrities.com
+peopleenespanol.com
+peoplesite.com
+mundodescargas.com/famosos/
+exposay.com
+megalopeople.com
+starmagazine.com
+tlife.gr
+experimentaljetset.nl
+gamegossip.com
+sportsambassadors.org
+staronet.com
+starsareunderground.free.fr
+thejetsetgirls.blogspot.com
+celebritygossip.com
+evilbeetgossip.film.com
+mysteriouspeople.com
+stargossip.info
+mundodescargas.com/2k10/
+nicolebitchy.com
+celebrites-photos.com
+celebrity-link.com
+celebrityrumors.com
+dailymoo.com
+ecorazzi.com
+investorsinpeople.co.uk
+jimmyshowbiz.blogspot.com
+people.emotionelle.fr
+germainpire.info
+gossipandfashion.com
+gossipcraze.com
+news-people.fr
+popscribe.com
+sacconnection.com
+zoomstars.com
+ivmypeople.com
+jetset-bar.com
+people.howstuffworks.com
+caught.com
+celebrityemail.com
+showhype.com/celebrities/
+blackpeopleloveus.com
+celebritysweating.com
+celebritythegame.com
+crazyrumors.com
+celebrite.com
+celebrites-selection.com
+1001actus.com
+perfectpeople.net
+allstargossip.com
+alltheprettypeople.com
+celebritywonder.com
+gossip-tv.gr
+jacqueslorenziconseil.com
+rumorsnightclub.net
+staragora.com
+trip-avenue.com
+cambio.com
+contactvip.com
+dpsinfo.com
+drinkjetset.com
+myparkmag.co.uk
+nameastarlive.com
+ussearch.com
+celebs.japansuki.com
+eonline.com
+spkweb.org.uk
+thegossipbee.com
+dailycontempt.com
+famous-people-search.com
+misdivas.com
+modamob.com
+psprumors.com
+stars-celebrites.com
+celebrity.liveleak.com
+1celebritysearch.com
+celebrites-stars.118-annuaires.eu
+designjetset.com
+hpana.com
+jet-set.216942.free-press-release.com
+looktothestars.org
+people.blog.mongenie.com
+dailyblabber.ivillage.com
+stars-people.skyrock.com
+74.54.112.162
+celebrites.fr
+csotd.com
+navistars.com
+biosstars.com
+calicelebs.com
+celebrityjet.com
+hystericpeople.com
+sosie-star.com
+entertainment.myway.com
+givemeliberty.org
+maplejuice.com
+rumormethis.com
+sharonlingham.com
+simsstars.com
+tmz.com
+yoursuperstar.com
+annu-celebrites.cquoi.net
+celebrity-maps.com
+celebritydairy.com
+globalgossip.com
+lincolnstars.com
+people-stars23.skyrock.com
+dorpsgekken.net/v1/index.php/celebs.html
+actupeople.blogspot.com
+caribbeancelebrity.com
+celebritez.com
+fotofama.com
+jetset.ca
+people.co.uk
+scotlandspeople.gov.uk
+snarkygossip.com
+4mninside.com
+engineroomvfx.com
+piaction.com
+rumors-online.com
+mundodescargas.com/2k9/
+celebrity-hairstyles.org
+celebrities-weblog.com
+hotcelebrity.name
+pixelstar.fr
+instyle.com
+la-jet-set-pv.skyrock.com
+nospepoles.com
+nowmagazine.co.uk
+stars-celebrites.chez-alice.fr
+timbeasleyscelebritystars.com
+buzzpeople.info
+perezhilton.com
+truemors.nowpublic.com
+westferia.com
+laola.blogtrafic.com
+widgetbox.com/network/celebrity/
+celebrity.myspace.com
+celebrityshoppingblog.com
+dirtywood.com
+nosamislespeople.com
+celebreject.com
+chez-zazou.blogtrafic.com
+guessthecelebrity.student.com
+jetsets.org
+popsugar.com
+studentambassadors.org
+emigrestudio.com
+gossip.about.com
+gossipyouth.co.uk
+jeanmarcmorandini.com
+leguidedesstars.cquoi.net
+personaglia.com
+scientology-ccparis.org
+stars-people.blogs.fr
+appleinsider.com
+people-international.com
+rumorreporter.com
+rumorsms.citymax.com
+spicezee.com
+toutlebuzz.com
+twojetsetdivas.com
+astrozine.astrology.com
+fanpeople.com
+jetsetcrew.com
+jetsetjoe.com
+morisod.com
+potindestars.com
+celebritycentreparis.com
+crazyapplerumors.com
+peopletree.co.uk
+stars-celebrites-news.com
+creationsiteinternetrambouillet.com
+dyfuse.com
+hollywoodchaos.com
+listal.com
+stars.troy.edu
+zabasearch.com
+blog.telestar.fr
+dangerously-famous.skyrock.com
+public.fr
+realestalker.blogspot.com
+mundofamosos.portalmundos.com
+people.zoho.com
+premiere.fr
+celebrites-stars.eu
+damnimcute.com
+jetset.com.tw
+timessquaregossip.com
+f1rumors.net
+topfootball-girls.blogspot.com
+mygrito.com/farandula/
+tuttogratis.es/famosos/
+craftgossip.com
+buzzinsoapstars.co.uk
+sortez-moi-de-la.tchatcheblog.com
+thesuperficial.com
+celebritybabyscoop.com
+acteurchanteur.com
+globalexchange.org
+jetsetblog.com
+jetsetusa.com
+mlbtraderumors.com
+rumorsquartet.com
+scientology.cc
+jetsetsatellite.com
+jetsettuning.com
+ladygossip.yooblog.gr
+michaelstars.com
+peopleinside.fr
+pmx.over-blog.com
+fametastic.co.uk
+famosos.mundodescargas.com
+people.yahoo.com
+stars-and-gossip.blogspot.com
+starsducinema.com
+vipmodels.fr
+celebrityblackberrysightings.com
+keskeces.com
+bomis.com/tree/celebrity/
+thefrisky.com/celebs/
+rumorsaltoona.com
+123celebritygossip.com
+buzz-tele.fr
+celebdirtylaundry.com
+glamourvanity.com
+hollywoodlife.com
+jetsetwilly.jodi.org
+amiaceleb.com
+galleryofcelebrities.com
+gossiprocks.com
+jetsetcement.com
+sawfirst.com
+annuaire-stars-nues.com
+celebrity-bigbrother.com
+english.gov.cn
+gossipcentral.com
+greys-anatomy.fr
+jet-set-007.skyrock.com
+okmagazine.com
+thecelebrityblog.com
+ambassadorprograms.org
+celebritiesfans.com
+deathbeeper.com
+hollywoodpornstars.be
+howtohireacelebrity.com
+queen.gr
+stupidcelebrities.net
+uberazzi.com
+celebrityphotoonline.com
+defamer.com.au
+greys-anatomy.info
+actualite-de-stars.com
+celebrity.sawen.com
+lyonpeople.com
+theinsider.com
+dorpsgekken.net/v1/index.php/celebs/
+actressesgalls.com
+baronne.iziblog.net
+macrumors.com
+popularbiographies.wordpress.com
+rumorsrva.com
+thebadandugly.com
+123people.com
+actupoli.blogspot.com
+concreteloop.com
+hollywoodrag.com
+todaystars.com
+celebritycellars.com
+english.peopledaily.com.cn
+gawker.com
+viciousrumors.com
+celebritynation.blogspot.com
+gossip--people.skyrock.com
+hollyscoop.com
+hollywoodbackwash.com
+jekers.com
+le-show-biz.org
+thepeoplehistory.com
+truthorfiction.com
+celebrities.alltop.com
+celebrityjuicy.com
+gossipgirls.com
+rumors.com
+bestcelebritysites.com
+jetsetstudios.com
+latingossip.com
+voistars.com
+glamourparis.com
+go4celebrity.com
+ncrumors.com
+radaronline.com
+stars.ca
+thebosh.com
+celebheli.com
+thederrtytruth.com
+jetsetmagazine.net
+monsosie.com
+yeeeah.com
+celebritygossipshow.com
+contactanycelebrity.com
+gossipthug.com
+peopleorg.com
+starsetpeople.com
+tvsquad.com
+fanforum.com/f1/
+jetset.com.au
+objetivofamosos.com
+celebritycherry.com
+gossipcop.com
+pregnant-celebrities.com
+thehollywoodgossip.com
+actuspeople.com
+celebritymound.com
+celebtv.com
+fun-people.fr
+jetset-agency.com
+mwza.com
+ok.co.uk
+thedailygoss.com
+celebcrust.com
+celebrity-people.com
+fermecelebrites2.com
+rumors.it
+portalnet.cl/comunidad/forumdisplay.php?f=255
+spike.com/channel/celebrities
+celebritynetworth.com
+popvine.com
+webmalin2000.free.fr
+celebritybabywatch.com
+metropolitanmodels.com
+celebrush.com
+dinootoo.com
+gossip.com
+pipl.com
+starsblog.dallasnews.com
+classicphotos.com
+dailystarnews.com
+delire2star.com
+gala.fr
+rumorficial.com
+rumorpatrol.com
+thecelebritycafe.com
+wonderfull-stars.skyrock.com
+malecelebs4u.com
+robotgossip.blogspot.com
+sylvaincombe.net
+yourtango.com/blogs/celeb-love
+numbergossip.com
+celebrity.rightpundits.com
+killrockstars.com
+peoplespot.com
+star-celebrite.com
+people.com
+celebheights.com
+freegossip.gr
+miss-jonas008.skyrock.com
+sexypipoles.com
+starsansmaquillage.fr
+woofactor.com
+holymoly.co.uk
+dailymedia.us
+branwen.net
+closermag.fr
+fjgirls.co.uk
+freepeople.com
+gossipgirlworld.org
+starbucksgossip.typepad.com
+biggeststars.com
+buzzmaniac.fr
+gossipgirlinsider.com
+jet-set-international.com
+jetsetholidays.co.uk
+kinggossip.com
+femalefirst.co.uk
+antoine-stars.skyrock.com
+celebrities.netscape.com
+cocoperez.com
+nikonrumors.com
+people.com.mm
+poplifeart.com
+rumors-party.com
+stars-py.sourceforge.net
+actu-celebrite.blogspot.com
+celebuzz.com
+jetsetpaper.etsy.com
+jsw.ovine.net
+studentstakingarightstand.org
+usmagazine.com
+vrai-nom.com
+guiagaleon.hispavista.com/celebridades/
+celeblite.com
+celebrityspace.fr
+hockeytraderumors.com
+jetsetclub.com
+jetsetjapan.com
+lindsaylohan123.monblogue.branchez-vous.com
+jetsetpq.com
+allwomenstalk.com/category/celebrities/
+celebritystarportraits.com
+famouspeople.com
+h-n-v-gossip.skyrock.com
+hotcelebritywallpaper.com
+juicyceleb.com
+kevadams-officiel.fr
+lespipoles.com
+localcelebrity.com
+parismatch.com
+macrumorslive.com
+starsgossip.blogspot.com
+thegossipmusic.com
+tv-charme.com
+efeitopop.com/arquivos/famosos-e-famosas/
+gossipgirl-blog.cwtv.com
+jetsetpets.com
+recentgossip.com
+reunion.com
+stars.org.uk
+celebrity.aol.com
+celebrityrockstarguitars.com
+celebritywallpapers.com
+lawebdelasfamosas.com
+actupeople.fr
+celebrityzone.co.uk
+hollywoodgrind.com
+shopatstars.com
+stars-oubliees.com
+weblo.com/celebrity/
+celebrite-star.com
+celticlesb.blogspirit.com
+hotmommagossip.com
+vasjmorgan.com
+celebritycollectables.com
+gossipgirlonline.skyrock.com
+jetsetbabies.com
+macosrumors.com
+missingpeople.org.uk
+vipflux.com
+yuddy.com
+portalnet.cl/comunidad/forumdisplay.php?f=354
+planetestars.tchatcheblog.com
+drh-movement.org
+gossip.imendio.org
+rumorsrestaurant.com
+fanpop.com/channel/show/5
+blogswow.com
+celebritysnap.com
+diaryofahollywoodstreetking.com
+easystar.com
+ovguide.com/entertainment-celebrity-gossip.html
+yourtango.com/celeb-love/
+celebatheists.com
+celebcards.com
+celebritypalace.com
+famososycorazon.com
+jetsetmodels.com
+laineygossip.com
+photos-celebrites.net
+ptpi.org
+celebritieslifestyle.wordpress.com
+defamer.com
+girlsdunet.com
+gossip-girl.hypnoweb.net
+purepeople.com
+scandalspy.com
+sosie.be
+stripes.com
+freshdames.com
+jetset.ch
+radicule.com
+stuffwhitepeoplelike.com
+annuaire-stars-celebrites.com
+bossip.com
+buzzandpeople.com
+celebhoo.com
+celebrity-mania.com
+etonline.com
+hollywoodgossips.net
+starlifetalk.com
+celebpox.com
+celebstar.org
+fotosdasfamosas.com
+friendsofcannabis.com
+gossipjournal.canalblog.com
+starissime.info
+worldhotnews.net
+virgula.uol.com.br/ver/canal/famosos
+actualitepeople.tootisy.com
+celebrity-mag.skyrock.com
+celebrityfling.com
+gossipcenter.com
+gossipgirlchat.com
+starfizz.net
+thedailyhappy.blogspot.com
+thelondonpaper.com/thelondonpaper/celebrity
+celebritymorgue.com
+gossipgirlonline.net
+hoopsworld.com
+celebrityscreenname.com
+filmbug.com
+gossiprecords.com
+celebritiesworldwide.com
+gatheringstars.com
+hottdhaka.com
+starpages.net
+waterforpeople.org
+5duku.tistory.com
+josetaco.com
+people.plurielles.fr
+peopleandprofiles.com
+foro.galeon.com/guia/celebridades
+celebritycd.com
+healthypeople.gov
+infamousceleb.com
+news-de-stars.com
+celebrityattractions.com
+imnotobsessed.com
+yourcelebrity.net
+celebrity-g0ssip.skyrock.com
+celebritysmackblog.com
+ninapeople.com
+slashgossip.com
+aliyaparcs.com
+buzzvee.com
+celebrity-exchange.com
+jetsetbar.com
+jetsetweblog.com
+thesweetgossip.com
+cri.univ-tlse1.fr/tools/test_filtrage/celebrity/
+bollynewz.com
+celebritybabies.typepad.com
+shootingpeople.org
+womanfineststars.com
+actu-star.be
+actustar.com
+belladonnarealm.com
+celebgossip.excite.com
+celebrite.aol.fr
+celebritydietdoctor.com
+celebs101.com
+nice-people-x.com
+celebrity-gossip.net
+jetsetinc.com
+popeater.com
+rumorscomedyclub.com
+star-1.org
+starsagency.com
+celebridiot.com
+celebs.webcastr.com
+cotilleoblog.com
+canonrumors.com
+humana.org
+ofuxico.com.br
+wonkette.com
+glamour.com
+iamrubis.skyrock.com
+nationalenquirer.com
+peoplesearch.com.au
+celebrity-babies.com
+jimmyshowbiz.com
+pipole.net
+celebritylinks.de
+celebrityseries.org
+desvestir.com.mx
+g0ssipgirl.canalblog.com
+jetsetmafia.com
+kevadams.fr
+lulucomets.net
+celebrityparents.com
+celebritypuke.com
+insidejets.com
+jadorelespotins.com
+little-stars.info
+all-pictures.org/celebrities
+celebritytheatre.com
+gossipgirlreport.com
+jewelryfromthestars.com
+jswremakes.emuunlim.com
+people.ados.fr
+spreadit.org
+starsinyou.com
+fanforum.com/f2/
+celebritylatestgossip.com
+handbag.com
+popcrunch.com
+stars-celebrites.fr
+stars-fun.com
+portalnet.cl/comunidad/forumdisplay.php?f=528
+bateauecole.fr
+buzzpatrol.com
+glam.fr
+hollywoodsnowflakes.com
+mundofamosos.net
+peoples.com
+spock.com
+star-wallpaper.com
+jetsetgraffiti.com
+peoplestars.net
+cracked.com/humor-celebrities.html
+zismile.com/celebs/
+mundodafama.net
+peopollywood.com
+rihannadaily.com
+solovagos.com/foro/farandula/
+bollywoodhappening.com
+celebritybodygossip.com
+janetcharltonshollywood.com
+myheritage.com
+rumors.jp
+womencelebs.com
+celebsinside.com
+chinaadopttalk.com
+jetsetsports.com
+mrpaparazzi.com
+rootspeople.com
+celebrything.com
+celebstation.org
+divertissonsnous.com
+kelcelebrite.com
+peoples.coop
+blogdejulia.com
+jetsettour.com
+nosamieslesstars.com
+canalstars.com
+jmlg.org
+macosrumorsrumors.8m.com
+celebswhotwitter.com
+dontmiss.fr
+glacombe.com
+gossipgirl.net
+thegossipfix.com
+wesmirch.com
+heatworld.com
+jakeldaily.com
+seeing-stars.com
+voici.fr

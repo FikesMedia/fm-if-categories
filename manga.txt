@@ -1,649 +1,844 @@
 # Manga
-0.0.0.0 adkami.com
-0.0.0.0 animeboy.org
-0.0.0.0 animevf.com
-0.0.0.0 haru.tv
-0.0.0.0 lokiwebcams.com
-0.0.0.0 series-anime.com
-0.0.0.0 shinjuku-world.com
-0.0.0.0 theakiba.com
-0.0.0.0 animeunited.com.br
-0.0.0.0 animevice.com
-0.0.0.0 mangafox.com
-0.0.0.0 mangamaisanime.blogspot.com
-0.0.0.0 streaming-scan-otaku-manga.over-blog.com
-0.0.0.0 animea.net
-0.0.0.0 franime.fr
-0.0.0.0 knn-fansub.cjb.net
-0.0.0.0 minnanomanga.org
-0.0.0.0 narutoshippuden-animega.blogspot.com
-0.0.0.0 okazu.blogspot.com
-0.0.0.0 animemusicvideos.org
-0.0.0.0 furuanimepanikku.com
-0.0.0.0 manga.webmotril.com
-0.0.0.0 mangaprod.com
-0.0.0.0 mangaspaceserver.info
-0.0.0.0 scansmangas.xyz
-0.0.0.0 tokzu-fansub.net
-0.0.0.0 kawaiianimeonline.net
-0.0.0.0 mizuno-youko.livejournal.com
-0.0.0.0 vkmanga.com
-0.0.0.0 fansub.tv
-0.0.0.0 animenano.com
-0.0.0.0 mangareader.net
-0.0.0.0 sekaimanga.com
-0.0.0.0 anime-reactor.net
-0.0.0.0 animeyabu.com
-0.0.0.0 bainsomne.com.ar
-0.0.0.0 foroanime.com
-0.0.0.0 frscan.ws
-0.0.0.0 sakuraanimes.com
-0.0.0.0 sunmanga.com
-0.0.0.0 tsubara.net
-0.0.0.0 animebreaker.com
-0.0.0.0 fananimegroup.com
-0.0.0.0 glenatmanga.com
-0.0.0.0 kraken.fr
-0.0.0.0 mangatx.com
-0.0.0.0 pokemonestelar.servermh.net
-0.0.0.0 yumedream.com
-0.0.0.0 animangafanaticos.net
-0.0.0.0 animebox.org
-0.0.0.0 brainblog.to
-0.0.0.0 japscan.com
-0.0.0.0 kinu-sekigushi.com
-0.0.0.0 manga4.com
-0.0.0.0 mecha-zero.com
-0.0.0.0 naruto-mx.net
-0.0.0.0 animationdigitalnetwork.fr
-0.0.0.0 mangajar.com
-0.0.0.0 mangarun.com
-0.0.0.0 mangashare.com
-0.0.0.0 panda-streaming.net
-0.0.0.0 saintseiya-world.com
-0.0.0.0 thewashitsu.files.wordpress.com
-0.0.0.0 vsyako-razno.ru
-0.0.0.0 sky-animes.com
-0.0.0.0 wikimanga.net
-0.0.0.0 animenfo.com
-0.0.0.0 fatedmangas.free.fr
-0.0.0.0 file4dwn.com
-0.0.0.0 one-piece.fr
-0.0.0.0 thewashitsu.wordpress.com
-0.0.0.0 video-anime.com
-0.0.0.0 anim-area11.net
-0.0.0.0 anime.es
-0.0.0.0 clampfansub.net
-0.0.0.0 scan-manga.com
-0.0.0.0 animes-streaming.net
-0.0.0.0 kulichki.com
-0.0.0.0 mangagate.com
-0.0.0.0 mangalandia.blogspot.com
-0.0.0.0 elsexoforo.com
-0.0.0.0 kissmanga.nl
-0.0.0.0 misiontokyo.com
-0.0.0.0 bloghost.cl
-0.0.0.0 capuchuu.com.br
-0.0.0.0 caracteranime.oamm.info
-0.0.0.0 hentaiheroes.com
-0.0.0.0 mangas-tv.com
-0.0.0.0 annuaire-manga-anime.com
-0.0.0.0 dannychoo.com
-0.0.0.0 manga-scantrad.net
-0.0.0.0 shoujoai.com
-0.0.0.0 sweet-project.nyan-nyanko.com
-0.0.0.0 alafista.com
-0.0.0.0 animefire.net
-0.0.0.0 animesonlinehd.info
-0.0.0.0 darkmahou.com
-0.0.0.0 eca-anime.net
-0.0.0.0 foro.el-hacker.com
-0.0.0.0 manga-ddl-free.com
-0.0.0.0 animesigma.com
-0.0.0.0 ovguide.com
-0.0.0.0 toutlemangax.com
-0.0.0.0 kissmanga.com
-0.0.0.0 lelscan.net
-0.0.0.0 yumi-chan.piggymoo.com
-0.0.0.0 evilonigiri.wordpress.com
-0.0.0.0 filestube.com
-0.0.0.0 mangavibe.top
-0.0.0.0 mangaworld.org
-0.0.0.0 rune-nifelheim.com
-0.0.0.0 goodanime.net
-0.0.0.0 hispanime.co.cc
-0.0.0.0 moarmanga.com
-0.0.0.0 rarbg.com
-0.0.0.0 animax-la.com
-0.0.0.0 animeblogger.net
-0.0.0.0 animeblogz.com
-0.0.0.0 club.telepolis.com
-0.0.0.0 japscan.ws
-0.0.0.0 jpscan-vf.com
-0.0.0.0 mangacan2.com
-0.0.0.0 mangatank.com
-0.0.0.0 animeid.com
-0.0.0.0 planetadasolidao.queroumforum.com
-0.0.0.0 sumo.tv
-0.0.0.0 tonmanga.com
-0.0.0.0 wwv.scan-1.com
-0.0.0.0 animeprofile.com.br
-0.0.0.0 entertainmentworlddownloads.com
-0.0.0.0 nihonnofansub.com
-0.0.0.0 uncoached.com
-0.0.0.0 ani-kei.fatal.ru
-0.0.0.0 anilinkz.com
-0.0.0.0 awz.ru
-0.0.0.0 esmanga.com
-0.0.0.0 lermangasonline.info
-0.0.0.0 shoujopuntoar.blogspot.com
-0.0.0.0 tenmanga.com
-0.0.0.0 wartmag.com
-0.0.0.0 zonamanga.com
-0.0.0.0 clickavisos.com.ar
-0.0.0.0 elitedivx.com
-0.0.0.0 enanime.com
-0.0.0.0 gamerkun.com
-0.0.0.0 iskans.com
-0.0.0.0 ki-oon.com
-0.0.0.0 nbod-anime.com
-0.0.0.0 animehell.servermh.net
-0.0.0.0 capriciouswhim.com
-0.0.0.0 catharticgroup.blogspot.com
-0.0.0.0 discountmanga.fr
-0.0.0.0 hanenoakari.com
-0.0.0.0 lecture-en-ligne.com
-0.0.0.0 mundoanime.comlu.com
-0.0.0.0 supermangas.site
-0.0.0.0 animesfoxbr.com
-0.0.0.0 conconada.com
-0.0.0.0 fantasyforum.com.ar
-0.0.0.0 teenagemercenarymanga.com
-0.0.0.0 yakimoshi.blogspot.com
-0.0.0.0 yaminoyukihime.blogspot.com
-0.0.0.0 yurinoboke.blogspot.com
-0.0.0.0 animafan.biz
-0.0.0.0 animentodadescarga.blogspot.com
-0.0.0.0 forosdz.com
-0.0.0.0 lotienetodo.com.ar
-0.0.0.0 manga-destiny.net
-0.0.0.0 manga.co.uk
-0.0.0.0 submanga.com
-0.0.0.0 anime-story.com
-0.0.0.0 mangatoshokan.com
-0.0.0.0 outlandz.org
-0.0.0.0 sugar888.com
-0.0.0.0 watusay.wordpress.com
-0.0.0.0 citymanga.com
-0.0.0.0 dmpbooks.com
-0.0.0.0 juegos37.com
-0.0.0.0 mfteam.fr
-0.0.0.0 mganimes.com.br
-0.0.0.0 n-c-team.com
-0.0.0.0 revistapaparazzi.com.br
-0.0.0.0 totallyspiesblog.blogspot.com
-0.0.0.0 mangable.com
-0.0.0.0 akihaydeto.net
-0.0.0.0 anime.com
-0.0.0.0 anxworld.net
-0.0.0.0 banzaianimes.com.br
-0.0.0.0 goyabu.vip
-0.0.0.0 howtodrawmanga.com
-0.0.0.0 manga-base.com
-0.0.0.0 mangatraders.com
-0.0.0.0 onemanga.com
-0.0.0.0 readmanga.com
-0.0.0.0 unlibromanga.blogspot.com
-0.0.0.0 2dcomplex.com
-0.0.0.0 branimes.com
-0.0.0.0 eatmanga.com
-0.0.0.0 niadd.com
-0.0.0.0 top-manga.com
-0.0.0.0 bibliotecahentai.net
-0.0.0.0 jenova-project.com
-0.0.0.0 pink-bunnys.blogspot.com
-0.0.0.0 ungrounded.net
-0.0.0.0 wallmanga.com
-0.0.0.0 mangaupdates.com
-0.0.0.0 anituga.xyz
-0.0.0.0 kana.fr
-0.0.0.0 scantoon.com
-0.0.0.0 shinmanga.com
-0.0.0.0 shoujomangacolections.blogspot.com
-0.0.0.0 tokyoreanimes.blogspot.com
-0.0.0.0 agith.cerestia.net
-0.0.0.0 animesup.net
-0.0.0.0 anitubesite.uk
-0.0.0.0 guba.com
-0.0.0.0 moemoe-fansub.blogspot.com
-0.0.0.0 the-dreams-of-manga.blogspot.com
-0.0.0.0 wakascan.com
-0.0.0.0 akatzuki.fullboards.com
-0.0.0.0 animefoxbrasil.blogspot.com
-0.0.0.0 banime.com
-0.0.0.0 binillamangas.blogspot.com
-0.0.0.0 theparadiseofmanga.blogspot.com
-0.0.0.0 gum-gum-stream.com
-0.0.0.0 mangacafe.fr
-0.0.0.0 mangaes.com
-0.0.0.0 scan-mx.com
-0.0.0.0 manga-info.fr
-0.0.0.0 mangapark.net
-0.0.0.0 zinmanga.com
-0.0.0.0 animeast.com
-0.0.0.0 animeomega.com
-0.0.0.0 animeonlinetv.org
-0.0.0.0 boladedragon.com
-0.0.0.0 carddass.fr
-0.0.0.0 goyabu.com
-0.0.0.0 yuribou.net
-0.0.0.0 animecentral.ge
-0.0.0.0 animesorionvip.com
-0.0.0.0 anunico.us
-0.0.0.0 daiyamangas.blogspot.com
-0.0.0.0 dragonslayers.metropoliglobal.com
-0.0.0.0 mangalife.com
-0.0.0.0 mangas-fr.com
-0.0.0.0 2krota.ru
-0.0.0.0 animediclous.tk
-0.0.0.0 laboratoriopokemon.servermh.net
-0.0.0.0 mwfdownloads.net
-0.0.0.0 narunet.servermh.net
-0.0.0.0 pekadores.com
-0.0.0.0 animestc.net
-0.0.0.0 bleach-mx.net
-0.0.0.0 faceyourmanga.com
-0.0.0.0 mangavite.com
-0.0.0.0 shojomiaka.blogspot.com
-0.0.0.0 idolanime.blogspot.com
-0.0.0.0 lelscan.com
-0.0.0.0 raidrush.ws
-0.0.0.0 theprojectmanga.blogspot.com
-0.0.0.0 animesheaven.net
-0.0.0.0 dzfansub.blogspot.com
-0.0.0.0 gekkouscans.com.br
-0.0.0.0 rootmanga.com
-0.0.0.0 fullmoepanic.wordpress.com
-0.0.0.0 gamersgallery.com
-0.0.0.0 mangatemple.com
-0.0.0.0 worldanime.foros.ws
-0.0.0.0 cdpa.net
-0.0.0.0 fantasymanga.fateback.com
-0.0.0.0 frscan.cc
-0.0.0.0 hispanime-team.com
-0.0.0.0 webcopedia.fr
-0.0.0.0 clipser.com
-0.0.0.0 dgraymansp.net
-0.0.0.0 eca-animeblog.co.cc
-0.0.0.0 anirrent.fansubs.com.br
-0.0.0.0 flickhost.com
-0.0.0.0 heavenofanime.org
-0.0.0.0 manga.about.com
-0.0.0.0 mangahead.com
-0.0.0.0 meusmangas.net
-0.0.0.0 red-anime.net
-0.0.0.0 animelegends.org
-0.0.0.0 animesuki.com
-0.0.0.0 ddanime.org
-0.0.0.0 manga-distribution.fr
-0.0.0.0 manga-streaming.info
-0.0.0.0 mangastore.com
-0.0.0.0 akata.fr
-0.0.0.0 anime4you.one
-0.0.0.0 currentanime.com
-0.0.0.0 demil.mforos.com
-0.0.0.0 nihonreview.com
-0.0.0.0 nwanime.com
-0.0.0.0 ver-anime.net
-0.0.0.0 animalog.online
-0.0.0.0 animint.com
-0.0.0.0 dragonballsuperonline.biz
-0.0.0.0 elmejoranime.com
-0.0.0.0 manga-lel.com
-0.0.0.0 anime-town.com
-0.0.0.0 iscariote.org
-0.0.0.0 nekosekai.awardspace.com
-0.0.0.0 anitube.cz
-0.0.0.0 baixaranimes.org
-0.0.0.0 elmejoranime.org
-0.0.0.0 elrincondelmanga.com
-0.0.0.0 keiichianimeforever.com
-0.0.0.0 lanochedeloscaidos.blogspot.com
-0.0.0.0 mangaworld.io
-0.0.0.0 animexmanga.com
-0.0.0.0 discountmanga.com
-0.0.0.0 forovagos.com
-0.0.0.0 glenat.com
-0.0.0.0 mangadestination.tk
-0.0.0.0 mangadoor.com
-0.0.0.0 mangahut.com
-0.0.0.0 numaga.com
-0.0.0.0 akiharufansub.wordpress.com
-0.0.0.0 animeafterglow.wordpress.com
-0.0.0.0 animesps.com
-0.0.0.0 mangaspain.com
-0.0.0.0 onepiecescan.com
-0.0.0.0 shinsei-sedai.com
-0.0.0.0 tvhland.com
-0.0.0.0 xxxyaoi.com
-0.0.0.0 angelfire.com
-0.0.0.0 anunico.com.ar
-0.0.0.0 manga-supreme.com
-0.0.0.0 mangaempire.metropoliglobal.com
-0.0.0.0 anunico.co.nz
-0.0.0.0 anunico.co.uk
-0.0.0.0 honya-ch.com
-0.0.0.0 lelmangavf.com
-0.0.0.0 marcianos.com.mx
-0.0.0.0 amanteanime.blogspot.com
-0.0.0.0 geneworld.net
-0.0.0.0 reseaupositif.net
-0.0.0.0 chapmanganato.to
-0.0.0.0 crunchyroll.com
-0.0.0.0 zagaruscans.metropoliglobal.com
-0.0.0.0 animescx.com.br
-0.0.0.0 doujinxtacy.wordpress.com
-0.0.0.0 heiseidemocracy.com
-0.0.0.0 la-mosca-cojonera.blogspot.com
-0.0.0.0 lamangaspain.com
-0.0.0.0 otakuinternational.com
-0.0.0.0 teslogos.com
-0.0.0.0 bendecho.com
-0.0.0.0 coyuhi.foros.ws
-0.0.0.0 finalmanga.net
-0.0.0.0 mangas-origines.fr
-0.0.0.0 mangaweekly.com
-0.0.0.0 huaymimama.net
-0.0.0.0 lililicious.net
-0.0.0.0 manga-streaming.over-blog.net
-0.0.0.0 mangabee.com
-0.0.0.0 manganime.comuv.com
-0.0.0.0 yasashiisekai.wordpress.com
-0.0.0.0 animexico.org
-0.0.0.0 galaxyteamhigh.blogspot.com
-0.0.0.0 mangaonline.us
-0.0.0.0 narutoforums.com
-0.0.0.0 pandopuntokualda.com
-0.0.0.0 todoomangas.com
-0.0.0.0 akilli.tv
-0.0.0.0 animesnacional.com
-0.0.0.0 collegecandy.com
-0.0.0.0 mangafilms.es
-0.0.0.0 tamtay.vn
-0.0.0.0 anime-sama.fr
-0.0.0.0 boukenshin.net
-0.0.0.0 capitulosnaruto.com
-0.0.0.0 divxonline.info
-0.0.0.0 manga-space.com
-0.0.0.0 mangapark.com
-0.0.0.0 mcanime.net
-0.0.0.0 mimanga.com
-0.0.0.0 alurasworld.metropoliglobal.com
-0.0.0.0 editorialivrea.com
-0.0.0.0 kaos-warez.org
-0.0.0.0 zagony.ru
-0.0.0.0 chapmanganelo.com
-0.0.0.0 grupodinamo.blogspot.com
-0.0.0.0 manga1st.online
-0.0.0.0 caballerosdelzodiacoblog.blogspot.com
-0.0.0.0 erems.free.fr
-0.0.0.0 manga-quebec.forumactif.com
-0.0.0.0 mangarooter.com
-0.0.0.0 voiranime.com
-0.0.0.0 yuricon.org
-0.0.0.0 animemap.com
-0.0.0.0 cartooniverse.co.uk
-0.0.0.0 dogguie.com
-0.0.0.0 gotei-scantrad.com
-0.0.0.0 lost-slayers.net
-0.0.0.0 scan-fr.cc
-0.0.0.0 teenagemercenary.com
-0.0.0.0 akuma-no-fansub.com
-0.0.0.0 animepalm.com
-0.0.0.0 fobo.ru
-0.0.0.0 gun-land.net
-0.0.0.0 mangahelpers.com
-0.0.0.0 naruto-mx.com
-0.0.0.0 animesrgb.com
-0.0.0.0 animu.com.br
-0.0.0.0 dreamanimes.com.br
-0.0.0.0 otaku-attitude.net
-0.0.0.0 otakunobaires.com.ar
-0.0.0.0 ovimg.com
-0.0.0.0 pokepedia.fr
-0.0.0.0 tiratelas.net
-0.0.0.0 animextremist.com
-0.0.0.0 gordonator.com
-0.0.0.0 mangapanda.com
-0.0.0.0 scantrad.fr
-0.0.0.0 webshonen.com
-0.0.0.0 xn--hentaienespaol-1nb.com
-0.0.0.0 2gantzmanga.iespana.es
-0.0.0.0 angelicanimanga.foroslatin.com
-0.0.0.0 infostore.org
-0.0.0.0 manga.com
-0.0.0.0 maruchino-editormanga.blogspot.com
-0.0.0.0 piyokomangasdd.blogspot.com
-0.0.0.0 rematanime.com
-0.0.0.0 universoanimes.com
-0.0.0.0 akiharu.foroes.net
-0.0.0.0 bleachmx.fr
-0.0.0.0 lelscans.net
-0.0.0.0 mata-web.com
-0.0.0.0 uafansub.com
-0.0.0.0 yumescanlations.wordpress.com
-0.0.0.0 jeuxmangas.net
-0.0.0.0 ob-session.org
-0.0.0.0 coinbd.com
-0.0.0.0 kyuutsui.com
-0.0.0.0 tuanime.com
-0.0.0.0 ba-k.com
-0.0.0.0 otakufanmx.tripod.com
-0.0.0.0 otakumatsuri.com.ar
-0.0.0.0 spike.com
-0.0.0.0 1stkissmanga.io
-0.0.0.0 anime-ticonofansub.foroactivo.net
-0.0.0.0 frontalweb.com.ar
-0.0.0.0 gum-gum-streaming.com
-0.0.0.0 gun-land.info
-0.0.0.0 japanese-manga.com
-0.0.0.0 milkyfusion.com
-0.0.0.0 renzoanimefan.files.wordpress.com
-0.0.0.0 anunico.com
-0.0.0.0 gokuan.37.free.fr
-0.0.0.0 japanread.cc
-0.0.0.0 manhuascan.com
-0.0.0.0 picfor.me
-0.0.0.0 proyectopretear.wordpress.com
-0.0.0.0 todomangatakanari.blogspot.com
-0.0.0.0 mangalecture.com
-0.0.0.0 angelfairies.awardspace.com
-0.0.0.0 barjeydrow.iespana.es
-0.0.0.0 bentomanga.com
-0.0.0.0 mangahere.com
-0.0.0.0 mwfansub.net
-0.0.0.0 vastolordefansubbr.blogspot.com
-0.0.0.0 mangaluxe.com
-0.0.0.0 mangas-arigatou.net
-0.0.0.0 mangas-vostfr.com
-0.0.0.0 halcyonrealms.com
-0.0.0.0 mangakana.com
-0.0.0.0 mangavision.org
-0.0.0.0 mundote.info
-0.0.0.0 nforo.net
-0.0.0.0 share-anime.com
-0.0.0.0 kataswork.wordpress.com
-0.0.0.0 narutost.free.fr
-0.0.0.0 spookyentertainment.com.ar
-0.0.0.0 animexx.onlinewelten.com
-0.0.0.0 blogonline.ru
-0.0.0.0 narutouy.fullboards.com
-0.0.0.0 x-animeid.com
-0.0.0.0 holytaco.com
-0.0.0.0 mangalife.ws
-0.0.0.0 mangas.fr
-0.0.0.0 mangawakusei.com
-0.0.0.0 informe.com
-0.0.0.0 le-foro.com
-0.0.0.0 minitokyo.net
-0.0.0.0 shinzounotenshifansub.iespana.es
-0.0.0.0 strawberrylilies.blogspot.com
-0.0.0.0 alurasworld.cerestia.net
-0.0.0.0 lelscan-vf.co
-0.0.0.0 laguaridax.com
-0.0.0.0 manhuaplus.org
-0.0.0.0 arfansub.ya.st
-0.0.0.0 desiwarez4u.org
-0.0.0.0 ntfansub.com
-0.0.0.0 codeanimation.net
-0.0.0.0 mangafire.to
-0.0.0.0 picchar.cerestia.net
-0.0.0.0 anime00.com
-0.0.0.0 benippon.com
-0.0.0.0 soleilmanga.com
-0.0.0.0 mangaasn.es.tl
-0.0.0.0 mangastation.com
-0.0.0.0 anime-100.com
-0.0.0.0 dbps.free.fr
-0.0.0.0 dragonballsuper.top
-0.0.0.0 dreammanga.com
-0.0.0.0 forodeanimes.com
-0.0.0.0 forodecostarica.com
-0.0.0.0 anime-ticonofansub.blogspot.com
-0.0.0.0 animenerdz.blogspot.com
-0.0.0.0 fleo.com.ar
-0.0.0.0 hispanimeradio.mypodcast.com
-0.0.0.0 joepesky.com
-0.0.0.0 jpmangas.cc
-0.0.0.0 pixslam.com
-0.0.0.0 zonaanime.com
-0.0.0.0 bleachexile.com
-0.0.0.0 galeon.com
-0.0.0.0 kangaryu.scantrad.free.fr
-0.0.0.0 2disbetterthan3d.wordpress.com
-0.0.0.0 anime-planet.superforo.net
-0.0.0.0 digimondatasquadblog.blogspot.com
-0.0.0.0 funcenter.fr
-0.0.0.0 kawaitsumi.awardspace.com
-0.0.0.0 manga-go.com
-0.0.0.0 tediofansub.blogspot.com
-0.0.0.0 ubelblatt.fr
-0.0.0.0 mangasama.com
-0.0.0.0 animewriter.wordpress.com
-0.0.0.0 anitube.site
-0.0.0.0 frozen-layer.com
-0.0.0.0 mangaowl.net
-0.0.0.0 mangas-girls-lovers.fr
-0.0.0.0 superanimes.biz
-0.0.0.0 tenkuunomanga.net
-0.0.0.0 ichinofansub.org
-0.0.0.0 losmejoresmangasdelahistoria.blogspot.com
-0.0.0.0 mangaesfera.ning.com
-0.0.0.0 mangaonline.forumactif.com
-0.0.0.0 speforo.com.ar
-0.0.0.0 todoanimes.com
-0.0.0.0 wingsofyuri.nekoslovakia.net
-0.0.0.0 anime.livedoor.com
-0.0.0.0 animecastle.com
-0.0.0.0 animekon.com
-0.0.0.0 chikyaoi.blogspot.com
-0.0.0.0 la-nasa.com
-0.0.0.0 leyendomangas.blogspot.com
-0.0.0.0 lostty.wordpress.com
-0.0.0.0 pinchala.cl
-0.0.0.0 ciudadmanga.net
-0.0.0.0 habitamos.com
-0.0.0.0 sigma6gijoe.blogspot.com
-0.0.0.0 43.225.108.171
-0.0.0.0 kefkagantzmanga.iespana.es
-0.0.0.0 mangaempire.net
-0.0.0.0 mangaon.org
-0.0.0.0 myanimelist.vip
-0.0.0.0 parismanga.fr
-0.0.0.0 yugenanime.tv
-0.0.0.0 animeglobal.net
-0.0.0.0 dattebayo-fr.com
-0.0.0.0 medanime.com
-0.0.0.0 rine.cloud
-0.0.0.0 vnmanga.com
-0.0.0.0 mangakakalot.com
-0.0.0.0 samace.atspace.com
-0.0.0.0 mrag.wordpress.com
-0.0.0.0 warianos.org
-0.0.0.0 600ml.com
-0.0.0.0 animeid.es
-0.0.0.0 animexico.forumup.com.mx
-0.0.0.0 arfansub.foruminute.com
-0.0.0.0 donghuanosekai.com
-0.0.0.0 dvddownload.nl
-0.0.0.0 latrola.net
-0.0.0.0 lelmanga.com
-0.0.0.0 gogoanime.com
-0.0.0.0 mangapicgallery.com
-0.0.0.0 mangastream.com
-0.0.0.0 megami.diinoweb.com
-0.0.0.0 mkklcdnv6tempv3.com
-0.0.0.0 ourmanga.com
-0.0.0.0 manga-scan.com
-0.0.0.0 aranafansub.mforos.com
-0.0.0.0 astronaruto.info
-0.0.0.0 mangasland.com
-0.0.0.0 picardianos.com
-0.0.0.0 redeparede.com
-0.0.0.0 seizeart.com
-0.0.0.0 animecenterscan.com
-0.0.0.0 animemusicvids.net
-0.0.0.0 animint.uru.org
-0.0.0.0 naruto-one.com
-0.0.0.0 manganews.net
-0.0.0.0 mangaonline.org
-0.0.0.0 nekomimicon.net
-0.0.0.0 scantrad.net
-0.0.0.0 daily-manga.net
-0.0.0.0 leforo.com
-0.0.0.0 portalxd.com
-0.0.0.0 total-manga.com
-0.0.0.0 zona-azteca.blogspot.com
-0.0.0.0 animestone.com
-0.0.0.0 animewriter.files.wordpress.com
-0.0.0.0 esthetique-realm.net
-0.0.0.0 feels.ru
-0.0.0.0 manga-news.com
-0.0.0.0 mangakakalot.tv
-0.0.0.0 mangaraven.com
-0.0.0.0 otakuplaneta.blogspot.com
-0.0.0.0 animesheep.com
-0.0.0.0 asuka.fr
-0.0.0.0 harthnir.com
-0.0.0.0 manga-revoluscan.over-blog.com
-0.0.0.0 mangalecture.free.fr
-0.0.0.0 senseya.net
-0.0.0.0 zona-azteca.com.ar
-0.0.0.0 anisearch.de
-0.0.0.0 crazyscanlation.com
-0.0.0.0 mangavolume.com
-0.0.0.0 zaratustraelmanga.blogspot.com
-0.0.0.0 gaara-fr.com
-0.0.0.0 readmanga24.com
-0.0.0.0 toproadrunner5.info
-0.0.0.0 anipike.com
-0.0.0.0 ariaanime.wordpress.com
-0.0.0.0 menudo-fansub.com
-0.0.0.0 solelo.com
-0.0.0.0 unixmanga.com
-0.0.0.0 yurizuki.net
-0.0.0.0 algunanime.blogspot.com
-0.0.0.0 animeopeningsongs.com
-0.0.0.0 animezeira.com
-0.0.0.0 manga.fr
-0.0.0.0 mngdoom.com
-0.0.0.0 peakspiderfansub.home.blog
-0.0.0.0 veranime.wordpress.com
-0.0.0.0 animesite2.blogspot.com
-0.0.0.0 boxmanga.com
-0.0.0.0 fan-manga-dbz.com
-0.0.0.0 marie.saiin.net
-0.0.0.0 manga-sanctuary.com
-0.0.0.0 mangaread.org
-0.0.0.0 mangascan.cc
-0.0.0.0 narutosasuke.es
+elmejoranime.com
+mangarun.com
+scantoon.com
+torrentdownloads.net/category/105/Samurai+Champloo
+vertor.com/index.php?mod=group&id=1
+warianoz.com/foros/forumdisplay.php?f=37
+anime-ticonofansub.blogspot.com
+animesorionvip.com
+anunico.co.uk
+bibliotecahentai.net
+daily-manga.net
+halcyonrealms.com
+manga-streaming.over-blog.net
+mangaonline.org
+anime-town.com
+gamersgallery.com
+ichinofansub.org
+submanga.com
+eldestrampe.net/f162/
+torrentdownloads.net/category/142/Comics
+torrentdownloads.net/category/523/Ouran+High+School+Host+Club
+torrentdownloads.net/category/98/Last+Exile
+cdpa.net
+discountmanga.fr
+lelscan-vf.co
+nwanime.com
+shoujopuntoar.blogspot.com
+speforo.com.ar
+tenkuunomanga.net
+torrentdownloads.net/category/89/Chobits
+animangafanaticos.net
+donghuanosekai.com
+kawaitsumi.awardspace.com
+mangabee.com
+torrentdownloads.net/category/92/Flame+of+Recca
+bleachmx.fr
+manga1st.online
+xxxyaoi.com
+yugenanime.tv
+torrentdownloads.net/category/100/Onegai+Twins
+torrentdownloads.net/category/101/Naruto
+torrentdownloads.net/category/146/Prince+of+Tennis
+vagosxtremos.org/comic-anime-manga/
+animefoxbrasil.blogspot.com
+banime.com
+foroanime.com
+la-nasa.com
+lelmangavf.com
+mangas-vostfr.com
+mangashare.com
+mangavolume.com
+gotei-scantrad.com
+lecture-en-ligne.com
+nihonreview.com
+vastolordefansubbr.blogspot.com
+zona-azteca.blogspot.com
+portalnet.cl/comunidad/forumdisplay.php?f=202
+torrentdownloads.net/category/94/Gundam
+mangaes.com
+mangahead.com
+mangaon.org
+animepalm.com
+carddass.fr
+vkmanga.com
+cri.univ-tlse1.fr/tools/test_filtrage/manga/
+portalnet.cl/comunidad/forumdisplay.php?f=282
+lanochedeloscaidos.blogspot.com
+anunico.com.ar
+arfansub.foruminute.com
+infostore.org
+otaku-attitude.net
+rematanime.com
+multidescarga.es/foro/series-anime-en-castellano/
+anime.es
+animeprofile.com.br
+mangas.fr
+peakspiderfansub.home.blog
+yakimoshi.blogspot.com
+fanfiction.net/communities/anime/
+torrentdownloads.net/category/87/Big+O
+animemusicvideos.org
+bainsomne.com.ar
+pinchala.cl
+warianoz.com/foros/forumdisplay.php?f=56
+1stkissmanga.io
+animediclous.tk
+barjeydrow.iespana.es
+eca-anime.net
+elsexoforo.com
+fullmoepanic.wordpress.com
+mangapark.com
+wakascan.com
+currentanime.com
+manga.webmotril.com
+ddwarez.com/category/anime-y-manga
+todoroms.com/anime-espanol
+warez.programasfull.com/download/anime-y-cartoon
+2krota.ru
+mizuno-youko.livejournal.com
+wallmanga.com
+psicofxp.com/forums/manga-y-anime.335
+gum-gum-stream.com
+idolanime.blogspot.com
+losmejoresmangasdelahistoria.blogspot.com
+mangapanda.com
+manhuascan.com
+narunet.servermh.net
+voiranime.com
+foro-descarga.com/anime-b39.0/
+animecenterscan.com
+animint.com
+chapmanganelo.com
+jpmangas.cc
+mangaread.org
+antronio.com/f52/
+foro-descarga.com/anime-latino-b56.0/
+portalnet.cl/comunidad/forumdisplay.php?f=281
+animehell.servermh.net
+animevf.com
+filestube.com
+hianime.to
+mangas-fr.com
+mata-web.com
+nbod-anime.com
+shinjuku-world.com
+coyuhi.foros.ws
+huaymimama.net
+kana.fr
+nihonnofansub.com
+saintseiya-world.com
+webcopedia.fr
+elcachondeo.cl/foro/forumdisplay.php?f=20
+portalnet.cl/comunidad/forumdisplay.php?f=152
+kawaiianimeonline.net
+sekaimanga.com
+shinsei-sedai.com
+unlibromanga.blogspot.com
+9reyes.net/anime-y-manga-gratis/
+galeria.blogadomo.com/anime/
+ariaanime.wordpress.com
+clipser.com
+daiyamangas.blogspot.com
+mangafilms.es
+tdescarga.info/noticias-Animes-1.html
+torrentdownloads.net/category/145/Hunter+X+Hunter
+baixaranimes.org
+manga-quebec.forumactif.com
+yumi-chan.piggymoo.com
+afkrotch.com/Manga/
+nocturnar.com/forum/anime-y-manga/
+quechucha.org/T1underx/manga/
+yumedream.com
+9reyes.net/animes-online-gratis/
+akilli.tv
+animescx.com.br
+mangastore.com
+manhuaplus.org
+the-dreams-of-manga.blogspot.com
+cyberwares.ru/anime/
+blogonline.ru
+desiwarez4u.org
+japscan.ws
+ki-oon.com
+otakumatsuri.com.ar
+anunico.us
+elrincondelmanga.com
+erems.free.fr
+iskans.com
+teslogos.com
+animewriter.wordpress.com
+asuka.fr
+franime.fr
+mangatemple.com
+pokepedia.fr
+proyectopretear.wordpress.com
+angelfire.com
+animemap.com
+animu.com.br
+lotienetodo.com.ar
+mangacan2.com
+milkyfusion.com
+mwfansub.net
+gh.ffshrine.org/manga/
+600ml.com
+gaara-fr.com
+multidescarga.es/foro/anime/
+portalnet.cl/comunidad/forumdisplay.php?f=386
+torrentdownloads.net/category/93/Full+Metal+Alchemist
+animesite2.blogspot.com
+furuanimepanikku.com
+manga-lel.com
+mangahelpers.com
+mangajar.com
+yaminoyukihime.blogspot.com
+animesonlinehd.info
+anipike.com
+annuaire-manga-anime.com
+mangaasn.es.tl
+mangas-tv.com
+yumescanlations.wordpress.com
+01-fond-ecran.com/manga-19/
+chw.net/foro/anime-f30/
+crazyscanlation.com
+ovimg.com
+shinzounotenshifansub.iespana.es
+worldanime.foros.ws
+recintomoxo.net/foro/anime-online/
+torrentdownloads.net/category/96/InuYasha
+x-taringa.com/category/anime/
+animecentral.ge
+laguaridax.com
+rune-nifelheim.com
+yasashiisekai.wordpress.com
+bibliographie.jeudego.org/hikaru
+portalnet.cl/comunidad/forumdisplay.php?f=617
+mkklcdnv6tempv3.com
+dragonballsuper.top
+habitamos.com
+marie.saiin.net
+amanteanime.blogspot.com
+digimondatasquadblog.blogspot.com
+hanenoakari.com
+manga-supreme.com
+mangakakalot.tv
+mangastream.com
+scan-manga.com
+sunmanga.com
+animeunited.com.br
+coinbd.com
+yurizuki.net
+fanfiction.net/anime/
+monova.org/cat.php?id=6
+taringa.net/tags/manga
+torrentdownloads.net/category/102/PlaES
+gamerkun.com
+guba.com
+ourmanga.com
+senseya.net
+x-animeid.com
+antronio.com/f32/
+chilewarez.cl/foros/forumdisplay.php/81-Pedidos-de-Anime
+feels.ru
+manganews.net
+todoomangas.com
+portalnet.cl/comunidad/forumdisplay.php?f=525
+anime-ticonofansub.foroactivo.net
+animexico.org
+kissmanga.com
+mangavision.org
+nekomimicon.net
+sky-animes.com
+strawberrylilies.blogspot.com
+2disbetterthan3d.wordpress.com
+adkami.com
+gun-land.info
+heiseidemocracy.com
+manga-base.com
+mngdoom.com
+foros.3dgames.com.ar/anime-manga.82
+torrentdownloads.net/category/151/Dragon+ball
+ntfansub.com
+pink-bunnys.blogspot.com
+sweet-project.nyan-nyanko.com
+torrentdownloads.net/category/91/Dragonball+Z
+animationdigitalnetwork.fr
+manga-streaming.info
+maldito-ocio.com/category/anime/
+plube.com/category/anime/
+animesrgb.com
+funcenter.fr
+manga-scantrad.net
+reddit.com/r/manga/
+animebox.org
+fatedmangas.free.fr
+mangaempire.metropoliglobal.com
+mundoanime.comlu.com
+piggymoo.com/anime/
+angelfairies.awardspace.com
+uncoached.com
+wwv.scan-1.com
+zonadictoz.com.ar/Peliculas-Online/category/anime-gratis/
+anime-planet.superforo.net
+eatmanga.com
+manga-scan.com
+pekadores.com
+tolontolon.es/foro/anime/
+torrentdownloads.net/category/90/Dragonball+GT
+animesigma.com
+galaxyteamhigh.blogspot.com
+japscan.com
+picardianos.com
+elforolatino.com/f33/
+portalnet.cl/comunidad/forumdisplay.php?f=197
+medanime.com
+mfteam.fr
+wikimanga.net
+9reyes.net/descargas-de-anime/
+vgroupnetwork.com.ar/foro/
+animecastle.com
+dragonslayers.metropoliglobal.com
+mganimes.com.br
+samace.atspace.com
+tvhland.com
+zonaanime.com
+mangapark.net
+anilinkz.com
+animeboy.org
+benippon.com
+dattebayo-fr.com
+elmejoranime.org
+mangamaisanime.blogspot.com
+panda-streaming.net
+knn-fansub.cjb.net
+scansmangas.xyz
+scantrad.fr
+ungrounded.net
+groups.msn.com/MayutanManga
+portalnet.cl/comunidad/forumdisplay.php?f=301
+recintomoxo.net/foro/descargas-de-manga/
+solovagos.com/foro/manga/
+ani-kei.fatal.ru
+mwfdownloads.net
+piyokomangasdd.blogspot.com
+citymanga.com
+fantasyforum.com.ar
+fobo.ru
+mangaowl.net
+seizeart.com
+kat.ph/anime/
+multidescarga.es/foro/live-actions/
+vagosxtremos.org/anime-online/
+geneworld.net
+juegos37.com
+mangadoor.com
+egelforum.net/forum/manga-y-anime-3/
+krak.com.ar/comic-anime-manga/
+agith.cerestia.net
+anime-story.com
+animexico.forumup.com.mx
+bleachexile.com
+divxonline.info
+dvddownload.nl
+manga-space.com
+mangafox.com
+animesup.net
+japanread.cc
+manga-revoluscan.over-blog.com
+mangas-girls-lovers.fr
+niadd.com
+scan-fr.cc
+solelo.com
+spookyentertainment.com.ar
+alurasworld.metropoliglobal.com
+animesnacional.com
+capriciouswhim.com
+frontalweb.com.ar
+mangaworld.io
+tiratelas.net
+vsyako-razno.ru
+7chan.org/a/
+fananimegroup.com
+fantasymanga.fateback.com
+gun-land.net
+kulichki.com
+mangas-arigatou.net
+btjunkie.org/browse/Anime
+chilewarez.cl/foros/forumdisplay.php/15-Animeadictos-Y-Monoadictos
+foro-descarga.com/anime-latino/
+mecha-zero.com
+animeonlinetv.org
+animezeira.com
+foro.el-hacker.com
+scan-mx.com
+universoanimes.com
+programaswarez.com/anime-y-manga/
+tipete.com/manga-y-anime
+ba-k.com
+clickavisos.com.ar
+discountmanga.com
+fleo.com.ar
+gordonator.com
+mangalife.com
+tsubara.net
+arkangeles.org/anime-y-manga/
+2gantzmanga.iespana.es
+anime.com
+animeid.com
+frozen-layer.com
+narutouy.fullboards.com
+ddwarez.com/category/manga-anime
+elforro.com/comics-manga-y-anime/
+foro-descarga.com/anime/
+anime-reactor.net
+anime.livedoor.com
+animesfoxbr.com
+anisearch.de
+pixslam.com
+series-anime.com
+zonamanga.com
+todoilegal.net/index.php?board=136.0
+akiharu.foroes.net
+elitedivx.com
+haru.tv
+lelscans.net
+es.geocities.com/gesshoku_fansub/
+mirror1.homeunix.com/manga/
+recintomoxo.net/foro/musica-de-anime/
+todoilegal.net/index.php?board=206.0
+animeblogz.com
+iscariote.org
+mrag.wordpress.com
+planetadasolidao.queroumforum.com
+scantrad.net
+sugar888.com
+zona-azteca.com.ar
+afkrotch.com/manga.htm
+animenfo.com
+animeyabu.com
+dragonballsuperonline.biz
+laboratoriopokemon.servermh.net
+onemanga.com
+blog.lomasinteresante.net/categoria/anime
+portalnet.cl/comunidad/forumdisplay.php?f=122
+portalnet.cl/comunidad/forumdisplay.php?f=385
+alurasworld.cerestia.net
+anituga.xyz
+portalnet.cl/comunidad/forumdisplay.php?f=618
+spynova.com/category/1/Anime/
+todoroms.com/search/-/cat-44
+torrentdownloads.net/category/99/Anime+-+Other
+streaming-scan-otaku-manga.over-blog.com
+unixmanga.com
+todoroms.com/series-anime-de-alta-definicion
+zalaa.com/categories/15/
+mangaluxe.com
+tipete.com/userpost/manga-y-anime/
+todoroms.com/anime-latino
+animesuki.com
+entertainmentworlddownloads.com
+moarmanga.com
+total-manga.com
+monova.org/subcat.php?id=74
+taringa-x.com/manga-y-anime/
+animesheep.com
+animexmanga.com
+anunico.co.nz
+naruto-mx.net
+sigma6gijoe.blogspot.com
+ddwarez.com/category/anime-y-manga-gratis
+todoilegal.net/index.php?board=121.0
+viciowarez.com/descargar-animez-13/
+mangalife.ws
+banzaianimes.com.br
+capuchuu.com.br
+glenat.com
+heavenofanime.org
+lostty.wordpress.com
+manga-news.com
+ovguide.com
+animeafterglow.wordpress.com
+conconada.com
+hentaiheroes.com
+hispanime-team.com
+hispanimeradio.mypodcast.com
+renzoanimefan.files.wordpress.com
+shoujoai.com
+webshonen.com
+kissmanga.nl
+01-fond-ecran.com/fond-ecran-manga-19.html
+animefire.net
+frscan.cc
+manga.com
+wingsofyuri.nekoslovakia.net
+recintomoxo.net/foro/anime/
+akatzuki.fullboards.com
+lililicious.net
+moemoe-fansub.blogspot.com
+narutoforums.com
+sumo.tv
+monova.org/subcat.php?id=19
+animestone.com
+animint.uru.org
+mangaprod.com
+milpeliculas.com/peliculas-de-anime/
+x-taringa.com/anime/
+myanimelist.vip
+otakunobaires.com.ar
+picfor.me
+thewashitsu.files.wordpress.com
+imost.com/index.php?mod=browse&id=1
+yaclasificados.com.ar/adpics/
+dreammanga.com
+goodanime.net
+grupodinamo.blogspot.com
+kangaryu.scantrad.free.fr
+mangarooter.com
+mimanga.com
+forum.blackicebit.dasfree.com/f32/
+recintomoxo.net/foro/descargas-de-anime/
+akuma-no-fansub.com
+animexx.onlinewelten.com
+branimes.com
+kataswork.wordpress.com
+manga-sanctuary.com
+mangastation.com
+naruto-mx.com
+multidescarga.es/foro/peliculas-anime/
+animeid.es
+gogoanime.com
+lermangasonline.info
+manganime.comuv.com
+minitokyo.net
+teenagemercenary.com
+hhdb.com/boards/
+recintomoxo.net/foro/dzfansub/
+animelegends.org
+eca-animeblog.co.cc
+fan-manga-dbz.com
+gekkouscans.com.br
+gokuan.37.free.fr
+mangakakalot.com
+mangalecture.com
+numaga.com
+forodeanimes.com
+otakufanmx.tripod.com
+superanimes.biz
+xn--hentaienespaol-1nb.com
+todoroms.com/search/-/cat-41
+ultraforos.com/foro/anime-y-manga/
+clampfansub.net
+dannychoo.com
+editorialivrea.com
+pandopuntokualda.com
+soleilmanga.com
+tediofansub.blogspot.com
+torrentdownloads.net/category/95/Ghost+In+The+Shell+SAC
+akihaydeto.net
+animentodadescarga.blogspot.com
+anitube.site
+mangacafe.fr
+mangaweekly.com
+ob-session.org
+todoanimes.com
+zagony.ru
+animesheaven.net
+anitube.cz
+caracteranime.oamm.info
+informe.com
+mangagate.com
+rarbg.com
+andromedafree.it/mangagrafica/
+todoroms.com/search/-/cat-42
+dbps.free.fr
+file4dwn.com
+honya-ch.com
+mangascan.cc
+mangatraders.com
+mundote.info
+otakuinternational.com
+animemusicvids.net
+dreamanimes.com.br
+japanese-manga.com
+mangalecture.free.fr
+mangareader.net
+thewashitsu.wordpress.com
+blogadomo.com/categoria/anime-cartoon
+forosperu.net/forumdisplay.php?f=154
+lost-slayers.net
+naruto-one.com
+tokzu-fansub.net
+veranime.wordpress.com
+yuricon.org
+rapleagues.com/boards/
+taringa.net/tags/anime
+animeglobal.net
+mangatank.com
+sakuraanimes.com
+top-manga.com
+pendejaditas.com/?cat=32
+todoroms.com/anime-subtitulado
+anime-100.com
+anime-sama.fr
+ciudadmanga.net
+dmpbooks.com
+leforo.com
+nekosekai.awardspace.com
+4ds1.com/Anime
+portalnet.cl/comunidad/forumdisplay.php?f=154
+alafista.com
+evilonigiri.wordpress.com
+mangadestination.tk
+raidrush.ws
+supermangas.site
+todoilegal.net/index.php?board=135.0
+torrentdownloads.net/category/1/Anime
+2dcomplex.com
+animesps.com
+astronaruto.info
+dzfansub.blogspot.com
+onepiecescan.com
+outlandz.org
+recintomoxo.net/foro/manga/
+angelicanimanga.foroslatin.com
+lelscan.net
+manga-distribution.fr
+mangafire.to
+animenerdz.blogspot.com
+capitulosnaruto.com
+harthnir.com
+mangaonline.us
+mangaraven.com
+multidescarga.es/foro/peliculas-anime-en-hd/
+portalnet.cl/comunidad/forumdisplay.php?f=230
+portalnet.cl/comunidad/forumdisplay.php?f=472
+arfansub.ya.st
+codeanimation.net
+jpscan-vf.com
+manga.about.com
+manga.co.uk
+mangaonline.forumactif.com
+mangaspain.com
+theakiba.com
+anime00.com
+frscan.ws
+gum-gum-streaming.com
+mangaempire.net
+readmanga.com
+red-anime.net
+toutlemangax.com
+watusay.wordpress.com
+animevice.com
+brainblog.to
+mangalandia.blogspot.com
+minnanomanga.org
+one-piece.fr
+antronio.com/forum/36-anime/
+antronio.com/forum/48-anime-y-manga/
+solovagos.com/foro/anime/
+bendecho.com
+latrola.net
+mangapicgallery.com
+mangas-origines.fr
+shoujomangacolections.blogspot.com
+tonmanga.com
+uafansub.com
+yuribou.net
+animafan.biz
+mangahere.com
+narutoshippuden-animega.blogspot.com
+spike.com
+final4ever.com/forumdisplay.php?f=204
+foros.3dgames.com.ar/offtopic.249
+todoroms.com/anime-internacional
+torrentdownloads.net/category/156/DVD-R
+animeast.com
+rine.cloud
+groups.msn.com/VampireKnight/
+multidescarga.es/foro/series-anime-en-castellano-completas/
+torrentdownloads.net/category/525/Strawberry+Panic
+torrentdownloads.net/category/97/Konkiki+No+Gash+Bell
+trashare.com/zona-otaku/
+animes-streaming.net
+mangaspaceserver.info
+todomangatakanari.blogspot.com
+chilewarez.cl/foros/forumdisplay.php/57-Anime
+foros.3dgames.com.ar/eventos-bienvenidas-y-salidas.250
+foros.cristalab.com/anime-y-manga-f34/
+multidescarga.es/foro/series-anime-en-v-o/
+portalnet.cl/comunidad/forumdisplay.php?f=914
+animalog.online
+anirrent.fansubs.com.br
+goyabu.vip
+kefkagantzmanga.iespana.es
+manga4.com
+picchar.cerestia.net
+theprojectmanga.blogspot.com
+tolontolon.es/foro/manga/
+animeomega.com
+chikyaoi.blogspot.com
+doujinxtacy.wordpress.com
+lamangaspain.com
+mangable.com
+n-c-team.com
+portalxd.com
+torrentdownloads.net/category/267/Bleach
+boukenshin.net
+keiichianimeforever.com
+mangasland.com
+mangatoshokan.com
+torrentdownloads.net/category/106/Stellvia+of+the+Universe
+torrentdownloads.net/category/86/Battle+Programer+Shirase
+vodpod.com/anime
+animenano.com
+club.telepolis.com
+dgraymansp.net
+howtodrawmanga.com
+kraken.fr
+manga.fr
+mangaupdates.com
+maruchino-editormanga.blogspot.com
+demil.mforos.com
+mangawakusei.com
+megami.diinoweb.com
+nforo.net
+tamtay.vn
+torrentdownloads.net/category/88/Cardcaptor+Sakura
+crunchyroll.com
+mcanime.net
+blog.lomasinteresante.net/anime/
+foro3k.com/comics/
+dogguie.com
+revistapaparazzi.com.br
+chidolandia.com/index.php/category/anime/
+animekon.com
+forodecostarica.com
+mangavite.com
+todoilegal.net/index.php?board=137.0
+43.225.108.171
+anxworld.net
+forovagos.com
+lelmanga.com
+manga-ddl-free.com
+manga-go.com
+parismanga.fr
+ubelblatt.fr
+awz.ru
+cartooniverse.co.uk
+galeon.com
+le-foro.com
+vnmanga.com
+dhforo.com/comics-manga-y-anime/
+eldestrampe.net/f162_anime/
+multidescarga.es/foro/series-anime-en-hd/
+akata.fr
+anunico.com
+boxmanga.com
+finalmanga.net
+shinmanga.com
+toproadrunner5.info
+reddit.com/r/anime/
+enanime.com
+yurinoboke.blogspot.com
+multidescarga.es/foro/series-anime-en-latino/
+animestc.net
+bentomanga.com
+flickhost.com
+glenatmanga.com
+goyabu.com
+pokemonestelar.servermh.net
+tokyoreanimes.blogspot.com
+animeopeningsongs.com
+darkmahou.com
+hispanime.co.cc
+kaos-warez.org
+mangatx.com
+reseaupositif.net
+eseriestv.com/foro/anime-manga/
+torrentdownloads.net/category/107/Scrapped+Princess
+collegecandy.com
+manga-info.fr
+rootmanga.com
+cristalab.com/anime/
+maldito-ocio.com/anime/
+torrentdownloads.net/category/508/One+Piece
+algunanime.blogspot.com
+bleach-mx.net
+ddanime.org
+faceyourmanga.com
+fansub.tv
+mangakana.com
+zinmanga.com
+torrentdownloads.net/category/524/Kiba
+aranafansub.mforos.com
+caballerosdelzodiacoblog.blogspot.com
+leyendomangas.blogspot.com
+redeparede.com
+shojomiaka.blogspot.com
+tuanime.com
+video-anime.com
+argentinawarez.com/anime-y-manga-gratis/
+mangaworld.org
+animextremist.com
+chapmanganato.to
+esmanga.com
+joepesky.com
+lokiwebcams.com
+readmanga24.com
+zagaruscans.metropoliglobal.com
+jenova-project.com
+lelscan.com
+mangasama.com
+narutosasuke.es
+narutost.free.fr
+share-anime.com
+ver-anime.net
+zaratustraelmanga.blogspot.com
+animebreaker.com
+bloghost.cl
+holytaco.com
+kyuutsui.com
+manga-destiny.net
+mangaesfera.ning.com
+mangahut.com
+meusmangas.net
+esthetique-realm.net
+misiontokyo.com
+teenagemercenarymanga.com
+tenmanga.com
+theparadiseofmanga.blogspot.com
+wartmag.com
+angelfire.lycos.com/hubs/anime_manga_hub.tmpl
+elcachondeo.cl/foro/forumdisplay.php?f=69
+mangavibe.top
+animeblogger.net
+forosdz.com
+kinu-sekigushi.com
+okazu.blogspot.com
+appwarez.com/anime/
+fanfiction.net/crossovers/anime/
+forum.blackicebit.dasfree.com/f35/
+akiharufansub.wordpress.com
+animax-la.com
+animea.net
+jeuxmangas.net
+la-mosca-cojonera.blogspot.com
+otakuplaneta.blogspot.com
+totallyspiesblog.blogspot.com
+torrentdownloads.net/category/104/Ruroni+Kenshin
+anitubesite.uk
+boladedragon.com
+forum.blackicebit.dasfree.com/f33/
+portalnet.cl/comunidad/forumdisplay.php?f=168
+taringa-x.com/category/manga-y-anime/
+anim-area11.net
+anime4you.one
+catharticgroup.blogspot.com
+marcianos.com.mx
+menudo-fansub.com
+warianos.org
+arkangeles.org/web/foro/anime-y-manga/
+torrentdownloads.net/category/103/Ranma+1/2
+animewriter.files.wordpress.com
+binillamangas.blogspot.com
